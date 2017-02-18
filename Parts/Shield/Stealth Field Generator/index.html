@@ -9,7 +9,7 @@
         
         <link rel="shortcut icon" href="../../../img/favicon.ico">
 
-	<title>ForceFieldRange - Scriptbots Arena</title>
+	<title>Stealth Field Generator - Scriptbots Arena</title>
 
         <link href="../../../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../../../css/font-awesome-4.0.3.css" rel="stylesheet">
@@ -175,13 +175,13 @@
         
             
 <li >
-    <a href="../../Shield/Force%20Field%20Generator/">Force Field Generator</a>
+    <a href="../Force%20Field%20Generator/">Force Field Generator</a>
 </li>
 
         
             
-<li >
-    <a href="../../Shield/Stealth%20Field%20Generator/">Stealth Field Generator</a>
+<li class="active">
+    <a href="./">Stealth Field Generator</a>
 </li>
 
         
@@ -196,37 +196,37 @@
         
             
 <li >
-    <a href="../Coin%20Thrower/">Coin Thrower</a>
-</li>
-
-        
-            
-<li class="active">
-    <a href="./">ForceFieldRange</a>
+    <a href="../../System/Coin%20Thrower/">Coin Thrower</a>
 </li>
 
         
             
 <li >
-    <a href="../LaserCannonBullet/">LaserCannonBullet</a>
+    <a href="../../System/ForceFieldRange/">ForceFieldRange</a>
 </li>
 
         
             
 <li >
-    <a href="../MineDetectorRegion/">MineDetectorRegion</a>
+    <a href="../../System/LaserCannonBullet/">LaserCannonBullet</a>
 </li>
 
         
             
 <li >
-    <a href="../SlotMarker/">SlotMarker</a>
+    <a href="../../System/MineDetectorRegion/">MineDetectorRegion</a>
 </li>
 
         
             
 <li >
-    <a href="../StealthFieldRange/">StealthFieldRange</a>
+    <a href="../../System/SlotMarker/">SlotMarker</a>
+</li>
+
+        
+            
+<li >
+    <a href="../../System/StealthFieldRange/">StealthFieldRange</a>
 </li>
 
         
@@ -281,12 +281,12 @@
                     </a>
                 </li>
                 <li >
-                    <a rel="next" href="../Coin%20Thrower/">
+                    <a rel="next" href="../Force%20Field%20Generator/">
                         <i class="fa fa-arrow-left"></i> Previous
                     </a>
                 </li>
                 <li >
-                    <a rel="prev" href="../LaserCannonBullet/">
+                    <a rel="prev" href="../../System/Coin%20Thrower/">
                         Next <i class="fa fa-arrow-right"></i>
                     </a>
                 </li>
@@ -300,7 +300,7 @@
             <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
     
-        <li class="main active"><a href="#system-forcefieldrange">System &gt; ForceFieldRange</a></li>
+        <li class="main active"><a href="#shield-stealth-field-generator">Shield &gt; Stealth Field Generator</a></li>
         
     
         <li class="main "><a href="#description">Description</a></li>
@@ -311,6 +311,8 @@
     
         <li class="main "><a href="#actions">Actions</a></li>
         
+            <li><a href="#activate-stealth-field-generator">[Activate Stealth Field Generator]</a></li>
+        
             <li><a href="#events">Events</a></li>
         
             <li><a href="#slots">Slots</a></li>
@@ -320,10 +322,13 @@
 </div></div>
             <div class="col-md-9" role="main">
 
-<h1 id="system-forcefieldrange">System &gt; <strong>ForceFieldRange</strong><a class="headerlink" href="#system-forcefieldrange" title="Permanent link">#</a></h1>
+<h1 id="shield-stealth-field-generator">Shield &gt; <strong>Stealth Field Generator</strong><a class="headerlink" href="#shield-stealth-field-generator" title="Permanent link">#</a></h1>
 <hr />
-<p><img alt="" src="../../../../../scriptbotsarena/img/ForceFieldRange.png" /></p>
+<p><img alt="" src="../../../../../scriptbotsarena/img/StealthField.png" /></p>
 <h1 id="description">Description<a class="headerlink" href="#description" title="Permanent link">#</a></h1>
+<pre class="code"><code>This generator makes your bot invisible for radars.</code></pre>
+
+
 <h1 id="characteristics">Characteristics<a class="headerlink" href="#characteristics" title="Permanent link">#</a></h1>
 <table>
 <thead>
@@ -332,9 +337,72 @@
 <th>Value</th>
 </tr>
 </thead>
-<tbody></tbody>
+<tbody>
+<tr>
+<td>MinRank</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Price</td>
+<td>300f,1500f,4000f,8000f,</td>
+</tr>
+<tr>
+<td>MaxNumber</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Weight</td>
+<td>250f</td>
+</tr>
+<tr>
+<td>CoolingTime</td>
+<td>10f</td>
+</tr>
+</tbody>
 </table>
 <h1 id="actions">Actions<a class="headerlink" href="#actions" title="Permanent link">#</a></h1>
+<hr />
+<h2 id="activate-stealth-field-generator">[<strong>Activate Stealth Field Generator</strong>]<a class="headerlink" href="#activate-stealth-field-generator" title="Permanent link">#</a></h2>
+<h3 id="description_1">Description<a class="headerlink" href="#description_1" title="Permanent link">#</a></h3>
+<pre class="code"><code>Consumes 150 energy units per second</code></pre>
+
+
+<h3 id="power-consumption-150f"><strong>Power consumption</strong> - 150f<a class="headerlink" href="#power-consumption-150f" title="Permanent link">#</a></h3>
+<h3 id="parameters"><strong>Parameters</strong><a class="headerlink" href="#parameters" title="Permanent link">#</a></h3>
+<table>
+<thead>
+<tr>
+<th><strong>Activation time</strong></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Type</td>
+<td>Slider</td>
+</tr>
+<tr>
+<td>Unit</td>
+<td>seconds</td>
+</tr>
+<tr>
+<td>Max</td>
+<td>15f</td>
+</tr>
+<tr>
+<td>Min</td>
+<td>1f</td>
+</tr>
+<tr>
+<td>Default</td>
+<td>5f</td>
+</tr>
+<tr>
+<td>Values</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 <h2 id="events">Events<a class="headerlink" href="#events" title="Permanent link">#</a></h2>
 <h2 id="slots">Slots<a class="headerlink" href="#slots" title="Permanent link">#</a></h2></div>
         </div>

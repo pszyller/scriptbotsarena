@@ -16,137 +16,137 @@
             "title": "What is the Scriptbots ARENA ?"
         },
         {
-            "location": "/Parts/Battery/B201V/",
+            "location": "/Parts/Battery/Battery B-201 V/",
             "text": "Battery > \nBattery B-201 V\n#\n\n\n\n\n\n\nDescription\n#\n\n\nOne of the most important parts of a bot. Brings additional energy units but it&#39;s also quite heavy and make a bot slower.\n\n\n\n\nCharacteristics\n#\n\n\n\n\n\n\n\n\nName\n\n\nValue\n\n\n\n\n\n\n\n\n\n\nMinRank\n\n\n1\n\n\n\n\n\n\nPrice\n\n\n100f,300f,500f,1000f,\n\n\n\n\n\n\nMaxNumber\n\n\n3\n\n\n\n\n\n\nWeight\n\n\n250f\n\n\n\n\n\n\nBattery\n\n\n2500\n\n\n\n\n\n\n\n\nActions\n#\n\n\nEvents\n#\n\n\n\n\n[Battery level is low]\n#\n\n\nEvent is triggered if battery level drops to 25%,  15%, 5%\n\n\n\n\nInputParams\n#\n\n\nSlots\n#",
-            "title": "B201V"
+            "title": "Battery B 201 V"
         },
         {
-            "location": "/Parts/Battery/B201V/#battery-battery-b-201-v",
+            "location": "/Parts/Battery/Battery B-201 V/#battery-battery-b-201-v",
             "text": "",
             "title": "Battery &gt; Battery B-201 V"
         },
         {
-            "location": "/Parts/Battery/B201V/#description",
+            "location": "/Parts/Battery/Battery B-201 V/#description",
             "text": "One of the most important parts of a bot. Brings additional energy units but it&#39;s also quite heavy and make a bot slower.",
             "title": "Description"
         },
         {
-            "location": "/Parts/Battery/B201V/#characteristics",
+            "location": "/Parts/Battery/Battery B-201 V/#characteristics",
             "text": "Name  Value      MinRank  1    Price  100f,300f,500f,1000f,    MaxNumber  3    Weight  250f    Battery  2500",
             "title": "Characteristics"
         },
         {
-            "location": "/Parts/Battery/B201V/#actions",
+            "location": "/Parts/Battery/Battery B-201 V/#actions",
             "text": "",
             "title": "Actions"
         },
         {
-            "location": "/Parts/Battery/B201V/#events",
+            "location": "/Parts/Battery/Battery B-201 V/#events",
             "text": "",
             "title": "Events"
         },
         {
-            "location": "/Parts/Battery/B201V/#battery-level-is-low",
+            "location": "/Parts/Battery/Battery B-201 V/#battery-level-is-low",
             "text": "Event is triggered if battery level drops to 25%,  15%, 5%",
             "title": "[Battery level is low]"
         },
         {
-            "location": "/Parts/Battery/B201V/#inputparams",
+            "location": "/Parts/Battery/Battery B-201 V/#inputparams",
             "text": "",
             "title": "InputParams"
         },
         {
-            "location": "/Parts/Battery/B201V/#slots",
+            "location": "/Parts/Battery/Battery B-201 V/#slots",
             "text": "",
             "title": "Slots"
         },
         {
-            "location": "/Parts/Battery/Charger/",
+            "location": "/Parts/Battery/Battery Charger/",
             "text": "Battery > \nBattery Charger\n#\n\n\n\n\n\n\nDescription\n#\n\n\nInvaluable part of the bot. Allows to recharge batteries to the given level. That part can save your bot, but also has one disadventage. Your bot&#39;s operating system must be suspended during charging process so it can not perform any actions.\n\n\n\n\nCharacteristics\n#\n\n\n\n\n\n\n\n\nName\n\n\nValue\n\n\n\n\n\n\n\n\n\n\nMinRank\n\n\n5\n\n\n\n\n\n\nPrice\n\n\n500f,1000f,2000f,3000f,\n\n\n\n\n\n\nMaxNumber\n\n\n3\n\n\n\n\n\n\nWeight\n\n\n250f\n\n\n\n\n\n\n\n\nActions\n#\n\n\n\n\n[\nCharge\n]\n#\n\n\nDescription\n#\n\n\nPower consumption\n - 5f\n#\n\n\nParameters\n#\n\n\n\n\n\n\n\n\nBattery level\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\npercent\n\n\n\n\n\n\nMax\n\n\n100f\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\n100f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\nEvents\n#\n\n\nSlots\n#",
-            "title": "Charger"
+            "title": "Battery Charger"
         },
         {
-            "location": "/Parts/Battery/Charger/#battery-battery-charger",
+            "location": "/Parts/Battery/Battery Charger/#battery-battery-charger",
             "text": "",
             "title": "Battery &gt; Battery Charger"
         },
         {
-            "location": "/Parts/Battery/Charger/#description",
+            "location": "/Parts/Battery/Battery Charger/#description",
             "text": "Invaluable part of the bot. Allows to recharge batteries to the given level. That part can save your bot, but also has one disadventage. Your bot&#39;s operating system must be suspended during charging process so it can not perform any actions.",
             "title": "Description"
         },
         {
-            "location": "/Parts/Battery/Charger/#characteristics",
+            "location": "/Parts/Battery/Battery Charger/#characteristics",
             "text": "Name  Value      MinRank  5    Price  500f,1000f,2000f,3000f,    MaxNumber  3    Weight  250f",
             "title": "Characteristics"
         },
         {
-            "location": "/Parts/Battery/Charger/#actions",
+            "location": "/Parts/Battery/Battery Charger/#actions",
             "text": "",
             "title": "Actions"
         },
         {
-            "location": "/Parts/Battery/Charger/#charge",
+            "location": "/Parts/Battery/Battery Charger/#charge",
             "text": "",
             "title": "[Charge]"
         },
         {
-            "location": "/Parts/Battery/Charger/#description_1",
+            "location": "/Parts/Battery/Battery Charger/#description_1",
             "text": "",
             "title": "Description"
         },
         {
-            "location": "/Parts/Battery/Charger/#power-consumption-5f",
+            "location": "/Parts/Battery/Battery Charger/#power-consumption-5f",
             "text": "",
             "title": "Power consumption - 5f"
         },
         {
-            "location": "/Parts/Battery/Charger/#parameters",
+            "location": "/Parts/Battery/Battery Charger/#parameters",
             "text": "Battery level       Type  Slider    Unit  percent    Max  100f    Min  0    Default  100f    Values",
             "title": "Parameters"
         },
         {
-            "location": "/Parts/Battery/Charger/#events",
+            "location": "/Parts/Battery/Battery Charger/#events",
             "text": "",
             "title": "Events"
         },
         {
-            "location": "/Parts/Battery/Charger/#slots",
+            "location": "/Parts/Battery/Battery Charger/#slots",
             "text": "",
             "title": "Slots"
         },
         {
-            "location": "/Parts/Electronics/MemoryCard10/",
+            "location": "/Parts/Electronics/Memory Card 10/",
             "text": "Electronics > \nMemory Card 10\n#\n\n\n\n\n\n\nDescription\n#\n\n\nExtends your bot&#39;s memory so you use more actions to describe the behavior.\n\n\n\n\nCharacteristics\n#\n\n\n\n\n\n\n\n\nName\n\n\nValue\n\n\n\n\n\n\n\n\n\n\nMinRank\n\n\n3\n\n\n\n\n\n\nPrice\n\n\n150f,500f,1000f,1500f,\n\n\n\n\n\n\nMaxNumber\n\n\n3\n\n\n\n\n\n\nMemory\n\n\n10\n\n\n\n\n\n\nWeight\n\n\n2f\n\n\n\n\n\n\n\n\nActions\n#\n\n\nEvents\n#\n\n\nSlots\n#",
-            "title": "MemoryCard10"
+            "title": "Memory Card 10"
         },
         {
-            "location": "/Parts/Electronics/MemoryCard10/#electronics-memory-card-10",
+            "location": "/Parts/Electronics/Memory Card 10/#electronics-memory-card-10",
             "text": "",
             "title": "Electronics &gt; Memory Card 10"
         },
         {
-            "location": "/Parts/Electronics/MemoryCard10/#description",
+            "location": "/Parts/Electronics/Memory Card 10/#description",
             "text": "Extends your bot&#39;s memory so you use more actions to describe the behavior.",
             "title": "Description"
         },
         {
-            "location": "/Parts/Electronics/MemoryCard10/#characteristics",
+            "location": "/Parts/Electronics/Memory Card 10/#characteristics",
             "text": "Name  Value      MinRank  3    Price  150f,500f,1000f,1500f,    MaxNumber  3    Memory  10    Weight  2f",
             "title": "Characteristics"
         },
         {
-            "location": "/Parts/Electronics/MemoryCard10/#actions",
+            "location": "/Parts/Electronics/Memory Card 10/#actions",
             "text": "",
             "title": "Actions"
         },
         {
-            "location": "/Parts/Electronics/MemoryCard10/#events",
+            "location": "/Parts/Electronics/Memory Card 10/#events",
             "text": "",
             "title": "Events"
         },
         {
-            "location": "/Parts/Electronics/MemoryCard10/#slots",
+            "location": "/Parts/Electronics/Memory Card 10/#slots",
             "text": "",
             "title": "Slots"
         },
@@ -221,972 +221,972 @@
             "title": "Slots"
         },
         {
-            "location": "/Parts/Electronics/RandomNumberGenerator/",
+            "location": "/Parts/Electronics/Random Number Generator/",
             "text": "Electronics > \nRandom Number Generator\n#\n\n\n\n\n\n\nDescription\n#\n\n\nIt&#39;s a very special part.. can make your bot logic as non-deterministic. You can teach your bot to do some actions with provided probability.\n\n\n\n\nCharacteristics\n#\n\n\n\n\n\n\n\n\nName\n\n\nValue\n\n\n\n\n\n\n\n\n\n\nMinRank\n\n\n5\n\n\n\n\n\n\nPrice\n\n\n150f,300f,500f,1000f,\n\n\n\n\n\n\nMaxNumber\n\n\n3\n\n\n\n\n\n\nWeight\n\n\n50f\n\n\n\n\n\n\n\n\nActions\n#\n\n\nEvents\n#\n\n\nSlots\n#",
-            "title": "RandomNumberGenerator"
+            "title": "Random Number Generator"
         },
         {
-            "location": "/Parts/Electronics/RandomNumberGenerator/#electronics-random-number-generator",
+            "location": "/Parts/Electronics/Random Number Generator/#electronics-random-number-generator",
             "text": "",
             "title": "Electronics &gt; Random Number Generator"
         },
         {
-            "location": "/Parts/Electronics/RandomNumberGenerator/#description",
+            "location": "/Parts/Electronics/Random Number Generator/#description",
             "text": "It&#39;s a very special part.. can make your bot logic as non-deterministic. You can teach your bot to do some actions with provided probability.",
             "title": "Description"
         },
         {
-            "location": "/Parts/Electronics/RandomNumberGenerator/#characteristics",
+            "location": "/Parts/Electronics/Random Number Generator/#characteristics",
             "text": "Name  Value      MinRank  5    Price  150f,300f,500f,1000f,    MaxNumber  3    Weight  50f",
             "title": "Characteristics"
         },
         {
-            "location": "/Parts/Electronics/RandomNumberGenerator/#actions",
+            "location": "/Parts/Electronics/Random Number Generator/#actions",
             "text": "",
             "title": "Actions"
         },
         {
-            "location": "/Parts/Electronics/RandomNumberGenerator/#events",
+            "location": "/Parts/Electronics/Random Number Generator/#events",
             "text": "",
             "title": "Events"
         },
         {
-            "location": "/Parts/Electronics/RandomNumberGenerator/#slots",
+            "location": "/Parts/Electronics/Random Number Generator/#slots",
             "text": "",
             "title": "Slots"
         },
         {
-            "location": "/Parts/Frames/BlackJack/",
+            "location": "/Parts/Frames/Black Jack Frame/",
             "text": "Frames > \nBlack Jack Frame\n#\n\n\n\n\n\n\nDescription\n#\n\n\nHeavy combat frame.\n\n\n\n\nCharacteristics\n#\n\n\n\n\n\n\n\n\nName\n\n\nValue\n\n\n\n\n\n\n\n\n\n\nMinRank\n\n\n2\n\n\n\n\n\n\nPrice\n\n\n500f,1500f,2500f,3500f,\n\n\n\n\n\n\nMaxNumber\n\n\n5\n\n\n\n\n\n\nPower\n\n\n200f\n\n\n\n\n\n\nWeight\n\n\n500f\n\n\n\n\n\n\nShield\n\n\n800\n\n\n\n\n\n\nAcceleration\n\n\n0.2f\n\n\n\n\n\n\nBattery\n\n\n700\n\n\n\n\n\n\nMemory\n\n\n15\n\n\n\n\n\n\nBootTime\n\n\n4f\n\n\n\n\n\n\n\n\nActions\n#\n\n\n\n\n[\nWait\n]\n#\n\n\nDescription\n#\n\n\nPower consumption\n - 2f\n#\n\n\nParameters\n#\n\n\n\n\n\n\n\n\nTime\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\nseconds\n\n\n\n\n\n\nMax\n\n\n20f\n\n\n\n\n\n\nMin\n\n\n1f\n\n\n\n\n\n\nDefault\n\n\n1f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n[\nRotate\n]\n#\n\n\nDescription\n#\n\n\nPower consumption\n - 2.5f\n#\n\n\nParameters\n#\n\n\n\n\n\n\n\n\nRun in backround\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nBool\n\n\n\n\n\n\nUnit\n\n\n\n\n\n\n\n\nMax\n\n\n0\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\n0\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAngle\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\ndegrees\n\n\n\n\n\n\nMax\n\n\n360f\n\n\n\n\n\n\nMin\n\n\n-360f\n\n\n\n\n\n\nDefault\n\n\n90f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRotation speed\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\npercent\n\n\n\n\n\n\nMax\n\n\n100f\n\n\n\n\n\n\nMin\n\n\n1\n\n\n\n\n\n\nDefault\n\n\n100f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n[\nRotate To Point\n]\n#\n\n\nDescription\n#\n\n\nPower consumption\n - 2.5f\n#\n\n\nParameters\n#\n\n\n\n\n\n\n\n\nRun in backround\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nBool\n\n\n\n\n\n\nUnit\n\n\n\n\n\n\n\n\nMax\n\n\n0\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\n0\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPoint\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nPoint\n\n\n\n\n\n\nUnit\n\n\n\n\n\n\n\n\nMax\n\n\n0\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\n0\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRotation speed\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\npercent\n\n\n\n\n\n\nMax\n\n\n100f\n\n\n\n\n\n\nMin\n\n\n1\n\n\n\n\n\n\nDefault\n\n\n100f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n[\nDrive\n]\n#\n\n\nDescription\n#\n\n\nPower consumption\n - 2.5f\n#\n\n\nParameters\n#\n\n\n\n\n\n\n\n\nRun in backround\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nBool\n\n\n\n\n\n\nUnit\n\n\n\n\n\n\n\n\nMax\n\n\n0\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\n0\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDistance\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\nmeters\n\n\n\n\n\n\nMax\n\n\n100f\n\n\n\n\n\n\nMin\n\n\n1\n\n\n\n\n\n\nDefault\n\n\n100f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpeed\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\nkm/h\n\n\n\n\n\n\nMax\n\n\n100f\n\n\n\n\n\n\nMin\n\n\n-100f\n\n\n\n\n\n\nDefault\n\n\n100f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrake\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nbool\n\n\n\n\n\n\nUnit\n\n\n\n\n\n\n\n\nMax\n\n\n0\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\ntrue\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\nEvents\n#\n\n\n\n\n[Operating system started]\n#\n\n\nEvent is triggered after bots operating system if started\n\n\n\n\nInputParams\n#\n\n\n\n\n[Last action finished]\n#\n\n\nEvent is triggered if all actions has been executed\n\n\n\n\nInputParams\n#\n\n\nSlots\n#\n\n\n[System]\n#\n\n\nsys_bj_ct - Right\n\n\n[Battery]\n#\n\n\nc_bj_b1 - Front Battery\n\n\nc_bj_b2 - Middle Battery\n\n\nc_bj_b3 - Rear Battery\n\n\n[Weapon]\n#\n\n\nw_bj_w1 - Front Weapon\n\n\nw_bj_w2 - Center Weapon\n\n\nw_bj_w3 - Rear Weapon\n\n\n[Sensors]\n#\n\n\ns_bj_s1 - Back Left Sensor\n\n\ns_bj_s2 - Back Right Sensor\n\n\n[Electronics]\n#\n\n\nw_bj_e1 - Front Left Electronics\n\n\nw_bj_e2 - Front Right Electronics\n\n\nw_bj_e3 - Rear Left Electronics\n\n\nw_bj_e4 - Rear Right Electronics\n\n\n[Shield]\n#\n\n\ns_bj_shield1 - Front",
-            "title": "BlackJack"
+            "title": "Black Jack Frame"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#frames-black-jack-frame",
+            "location": "/Parts/Frames/Black Jack Frame/#frames-black-jack-frame",
             "text": "",
             "title": "Frames &gt; Black Jack Frame"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#description",
+            "location": "/Parts/Frames/Black Jack Frame/#description",
             "text": "Heavy combat frame.",
             "title": "Description"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#characteristics",
+            "location": "/Parts/Frames/Black Jack Frame/#characteristics",
             "text": "Name  Value      MinRank  2    Price  500f,1500f,2500f,3500f,    MaxNumber  5    Power  200f    Weight  500f    Shield  800    Acceleration  0.2f    Battery  700    Memory  15    BootTime  4f",
             "title": "Characteristics"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#actions",
+            "location": "/Parts/Frames/Black Jack Frame/#actions",
             "text": "",
             "title": "Actions"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#wait",
+            "location": "/Parts/Frames/Black Jack Frame/#wait",
             "text": "",
             "title": "[Wait]"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#description_1",
+            "location": "/Parts/Frames/Black Jack Frame/#description_1",
             "text": "",
             "title": "Description"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#power-consumption-2f",
+            "location": "/Parts/Frames/Black Jack Frame/#power-consumption-2f",
             "text": "",
             "title": "Power consumption - 2f"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#parameters",
+            "location": "/Parts/Frames/Black Jack Frame/#parameters",
             "text": "Time       Type  Slider    Unit  seconds    Max  20f    Min  1f    Default  1f    Values",
             "title": "Parameters"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#rotate",
+            "location": "/Parts/Frames/Black Jack Frame/#rotate",
             "text": "",
             "title": "[Rotate]"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#description_2",
+            "location": "/Parts/Frames/Black Jack Frame/#description_2",
             "text": "",
             "title": "Description"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#power-consumption-25f",
+            "location": "/Parts/Frames/Black Jack Frame/#power-consumption-25f",
             "text": "",
             "title": "Power consumption - 2.5f"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#parameters_1",
+            "location": "/Parts/Frames/Black Jack Frame/#parameters_1",
             "text": "Run in backround       Type  Bool    Unit     Max  0    Min  0    Default  0    Values         Angle       Type  Slider    Unit  degrees    Max  360f    Min  -360f    Default  90f    Values         Rotation speed       Type  Slider    Unit  percent    Max  100f    Min  1    Default  100f    Values",
             "title": "Parameters"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#rotate-to-point",
+            "location": "/Parts/Frames/Black Jack Frame/#rotate-to-point",
             "text": "",
             "title": "[Rotate To Point]"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#description_3",
+            "location": "/Parts/Frames/Black Jack Frame/#description_3",
             "text": "",
             "title": "Description"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#power-consumption-25f_1",
+            "location": "/Parts/Frames/Black Jack Frame/#power-consumption-25f_1",
             "text": "",
             "title": "Power consumption - 2.5f"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#parameters_2",
+            "location": "/Parts/Frames/Black Jack Frame/#parameters_2",
             "text": "Run in backround       Type  Bool    Unit     Max  0    Min  0    Default  0    Values         Point       Type  Point    Unit     Max  0    Min  0    Default  0    Values         Rotation speed       Type  Slider    Unit  percent    Max  100f    Min  1    Default  100f    Values",
             "title": "Parameters"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#drive",
+            "location": "/Parts/Frames/Black Jack Frame/#drive",
             "text": "",
             "title": "[Drive]"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#description_4",
+            "location": "/Parts/Frames/Black Jack Frame/#description_4",
             "text": "",
             "title": "Description"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#power-consumption-25f_2",
+            "location": "/Parts/Frames/Black Jack Frame/#power-consumption-25f_2",
             "text": "",
             "title": "Power consumption - 2.5f"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#parameters_3",
+            "location": "/Parts/Frames/Black Jack Frame/#parameters_3",
             "text": "Run in backround       Type  Bool    Unit     Max  0    Min  0    Default  0    Values         Distance       Type  Slider    Unit  meters    Max  100f    Min  1    Default  100f    Values         Speed       Type  Slider    Unit  km/h    Max  100f    Min  -100f    Default  100f    Values         Brake       Type  bool    Unit     Max  0    Min  0    Default  true    Values",
             "title": "Parameters"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#events",
+            "location": "/Parts/Frames/Black Jack Frame/#events",
             "text": "",
             "title": "Events"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#operating-system-started",
+            "location": "/Parts/Frames/Black Jack Frame/#operating-system-started",
             "text": "Event is triggered after bots operating system if started",
             "title": "[Operating system started]"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#inputparams",
+            "location": "/Parts/Frames/Black Jack Frame/#inputparams",
             "text": "",
             "title": "InputParams"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#last-action-finished",
+            "location": "/Parts/Frames/Black Jack Frame/#last-action-finished",
             "text": "Event is triggered if all actions has been executed",
             "title": "[Last action finished]"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#inputparams_1",
+            "location": "/Parts/Frames/Black Jack Frame/#inputparams_1",
             "text": "",
             "title": "InputParams"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#slots",
+            "location": "/Parts/Frames/Black Jack Frame/#slots",
             "text": "",
             "title": "Slots"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#system",
+            "location": "/Parts/Frames/Black Jack Frame/#system",
             "text": "sys_bj_ct - Right",
             "title": "[System]"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#battery",
+            "location": "/Parts/Frames/Black Jack Frame/#battery",
             "text": "c_bj_b1 - Front Battery  c_bj_b2 - Middle Battery  c_bj_b3 - Rear Battery",
             "title": "[Battery]"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#weapon",
+            "location": "/Parts/Frames/Black Jack Frame/#weapon",
             "text": "w_bj_w1 - Front Weapon  w_bj_w2 - Center Weapon  w_bj_w3 - Rear Weapon",
             "title": "[Weapon]"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#sensors",
+            "location": "/Parts/Frames/Black Jack Frame/#sensors",
             "text": "s_bj_s1 - Back Left Sensor  s_bj_s2 - Back Right Sensor",
             "title": "[Sensors]"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#electronics",
+            "location": "/Parts/Frames/Black Jack Frame/#electronics",
             "text": "w_bj_e1 - Front Left Electronics  w_bj_e2 - Front Right Electronics  w_bj_e3 - Rear Left Electronics  w_bj_e4 - Rear Right Electronics",
             "title": "[Electronics]"
         },
         {
-            "location": "/Parts/Frames/BlackJack/#shield",
+            "location": "/Parts/Frames/Black Jack Frame/#shield",
             "text": "s_bj_shield1 - Front",
             "title": "[Shield]"
         },
         {
-            "location": "/Parts/Frames/Hornet/",
+            "location": "/Parts/Frames/Hornet Frame/",
             "text": "Frames > \nHornet Frame\n#\n\n\n\n\n\n\nDescription\n#\n\n\nLight and fast frame. Doesn&#39;t contain Weapon slots. It&#39;s mostly used in races, training and reconnaissance activities.\n\n\n\n\nCharacteristics\n#\n\n\n\n\n\n\n\n\nName\n\n\nValue\n\n\n\n\n\n\n\n\n\n\nMinRank\n\n\n0\n\n\n\n\n\n\nPrice\n\n\n0f,500f,1000f,3000f,\n\n\n\n\n\n\nMaxNumber\n\n\n1\n\n\n\n\n\n\nPower\n\n\n100f\n\n\n\n\n\n\nWeight\n\n\n150f\n\n\n\n\n\n\nShield\n\n\n50\n\n\n\n\n\n\nAcceleration\n\n\n0.5f\n\n\n\n\n\n\nBattery\n\n\n100\n\n\n\n\n\n\nMemory\n\n\n5\n\n\n\n\n\n\nBootTime\n\n\n2f\n\n\n\n\n\n\n\n\nActions\n#\n\n\n\n\n[\nWait\n]\n#\n\n\nDescription\n#\n\n\nCan be used to wait couple of seconds before next action execution.\n\n\n\n\nPower consumption\n - 2f\n#\n\n\nParameters\n#\n\n\n\n\n\n\n\n\nTime\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\nseconds\n\n\n\n\n\n\nMax\n\n\n20f\n\n\n\n\n\n\nMin\n\n\n1f\n\n\n\n\n\n\nDefault\n\n\n1f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n[\nRotate\n]\n#\n\n\nDescription\n#\n\n\nAction will turn left or right the bot by specified Angle with specified Speed.\n\n\n\n\nPower consumption\n - 2f\n#\n\n\nParameters\n#\n\n\n\n\n\n\n\n\nRun in backround\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nBool\n\n\n\n\n\n\nUnit\n\n\n\n\n\n\n\n\nMax\n\n\n0\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\n0\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAngle\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\ndegrees\n\n\n\n\n\n\nMax\n\n\n360f\n\n\n\n\n\n\nMin\n\n\n-360f\n\n\n\n\n\n\nDefault\n\n\n90f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRotation speed\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\npercent\n\n\n\n\n\n\nMax\n\n\n100f\n\n\n\n\n\n\nMin\n\n\n1\n\n\n\n\n\n\nDefault\n\n\n100f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n[\nRotate To Point\n]\n#\n\n\nDescription\n#\n\n\nAction will turn the bot to the specified point. Point parameters are provided by some Parts in their Events like Radar which send enemies positions or Radio which sends message sender position.\n\n\n\n\nPower consumption\n - 2f\n#\n\n\nParameters\n#\n\n\n\n\n\n\n\n\nRun in backround\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nBool\n\n\n\n\n\n\nUnit\n\n\n\n\n\n\n\n\nMax\n\n\n0\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\n0\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPoint\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nPoint\n\n\n\n\n\n\nUnit\n\n\n\n\n\n\n\n\nMax\n\n\n0\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\n0\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRotation speed\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\npercent\n\n\n\n\n\n\nMax\n\n\n100f\n\n\n\n\n\n\nMin\n\n\n1\n\n\n\n\n\n\nDefault\n\n\n100f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n[\nDrive\n]\n#\n\n\nDescription\n#\n\n\nDriving forward or backward with specified speed.\n\n\n\n\nPower consumption\n - 2f\n#\n\n\nParameters\n#\n\n\n\n\n\n\n\n\nRun in backround\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nBool\n\n\n\n\n\n\nUnit\n\n\n\n\n\n\n\n\nMax\n\n\n0\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\n0\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDistance\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\nmeters\n\n\n\n\n\n\nMax\n\n\n200f\n\n\n\n\n\n\nMin\n\n\n1f\n\n\n\n\n\n\nDefault\n\n\n100f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpeed\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\nkm/h\n\n\n\n\n\n\nMax\n\n\n100f\n\n\n\n\n\n\nMin\n\n\n-100f\n\n\n\n\n\n\nDefault\n\n\n100f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrake\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nbool\n\n\n\n\n\n\nUnit\n\n\n\n\n\n\n\n\nMax\n\n\n0\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\ntrue\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\nEvents\n#\n\n\n\n\n[Operating system started]\n#\n\n\nEvent is triggered after bots operating system if started\n\n\n\n\nInputParams\n#\n\n\n\n\n[Last action finished]\n#\n\n\nEvent is triggered if all actions has been executed\n\n\n\n\nInputParams\n#\n\n\nSlots\n#\n\n\n[System]\n#\n\n\nsys_ct - Right\n\n\n[Battery]\n#\n\n\nsn_b1 - Front\n\n\n[Electronics]\n#\n\n\nsn_e3 - Front\n\n\n[Shield]\n#\n\n\nsn_shield1 - Front",
-            "title": "Hornet"
+            "title": "Hornet Frame"
         },
         {
-            "location": "/Parts/Frames/Hornet/#frames-hornet-frame",
+            "location": "/Parts/Frames/Hornet Frame/#frames-hornet-frame",
             "text": "",
             "title": "Frames &gt; Hornet Frame"
         },
         {
-            "location": "/Parts/Frames/Hornet/#description",
+            "location": "/Parts/Frames/Hornet Frame/#description",
             "text": "Light and fast frame. Doesn&#39;t contain Weapon slots. It&#39;s mostly used in races, training and reconnaissance activities.",
             "title": "Description"
         },
         {
-            "location": "/Parts/Frames/Hornet/#characteristics",
+            "location": "/Parts/Frames/Hornet Frame/#characteristics",
             "text": "Name  Value      MinRank  0    Price  0f,500f,1000f,3000f,    MaxNumber  1    Power  100f    Weight  150f    Shield  50    Acceleration  0.5f    Battery  100    Memory  5    BootTime  2f",
             "title": "Characteristics"
         },
         {
-            "location": "/Parts/Frames/Hornet/#actions",
+            "location": "/Parts/Frames/Hornet Frame/#actions",
             "text": "",
             "title": "Actions"
         },
         {
-            "location": "/Parts/Frames/Hornet/#wait",
+            "location": "/Parts/Frames/Hornet Frame/#wait",
             "text": "",
             "title": "[Wait]"
         },
         {
-            "location": "/Parts/Frames/Hornet/#description_1",
+            "location": "/Parts/Frames/Hornet Frame/#description_1",
             "text": "Can be used to wait couple of seconds before next action execution.",
             "title": "Description"
         },
         {
-            "location": "/Parts/Frames/Hornet/#power-consumption-2f",
+            "location": "/Parts/Frames/Hornet Frame/#power-consumption-2f",
             "text": "",
             "title": "Power consumption - 2f"
         },
         {
-            "location": "/Parts/Frames/Hornet/#parameters",
+            "location": "/Parts/Frames/Hornet Frame/#parameters",
             "text": "Time       Type  Slider    Unit  seconds    Max  20f    Min  1f    Default  1f    Values",
             "title": "Parameters"
         },
         {
-            "location": "/Parts/Frames/Hornet/#rotate",
+            "location": "/Parts/Frames/Hornet Frame/#rotate",
             "text": "",
             "title": "[Rotate]"
         },
         {
-            "location": "/Parts/Frames/Hornet/#description_2",
+            "location": "/Parts/Frames/Hornet Frame/#description_2",
             "text": "Action will turn left or right the bot by specified Angle with specified Speed.",
             "title": "Description"
         },
         {
-            "location": "/Parts/Frames/Hornet/#power-consumption-2f_1",
+            "location": "/Parts/Frames/Hornet Frame/#power-consumption-2f_1",
             "text": "",
             "title": "Power consumption - 2f"
         },
         {
-            "location": "/Parts/Frames/Hornet/#parameters_1",
+            "location": "/Parts/Frames/Hornet Frame/#parameters_1",
             "text": "Run in backround       Type  Bool    Unit     Max  0    Min  0    Default  0    Values         Angle       Type  Slider    Unit  degrees    Max  360f    Min  -360f    Default  90f    Values         Rotation speed       Type  Slider    Unit  percent    Max  100f    Min  1    Default  100f    Values",
             "title": "Parameters"
         },
         {
-            "location": "/Parts/Frames/Hornet/#rotate-to-point",
+            "location": "/Parts/Frames/Hornet Frame/#rotate-to-point",
             "text": "",
             "title": "[Rotate To Point]"
         },
         {
-            "location": "/Parts/Frames/Hornet/#description_3",
+            "location": "/Parts/Frames/Hornet Frame/#description_3",
             "text": "Action will turn the bot to the specified point. Point parameters are provided by some Parts in their Events like Radar which send enemies positions or Radio which sends message sender position.",
             "title": "Description"
         },
         {
-            "location": "/Parts/Frames/Hornet/#power-consumption-2f_2",
+            "location": "/Parts/Frames/Hornet Frame/#power-consumption-2f_2",
             "text": "",
             "title": "Power consumption - 2f"
         },
         {
-            "location": "/Parts/Frames/Hornet/#parameters_2",
+            "location": "/Parts/Frames/Hornet Frame/#parameters_2",
             "text": "Run in backround       Type  Bool    Unit     Max  0    Min  0    Default  0    Values         Point       Type  Point    Unit     Max  0    Min  0    Default  0    Values         Rotation speed       Type  Slider    Unit  percent    Max  100f    Min  1    Default  100f    Values",
             "title": "Parameters"
         },
         {
-            "location": "/Parts/Frames/Hornet/#drive",
+            "location": "/Parts/Frames/Hornet Frame/#drive",
             "text": "",
             "title": "[Drive]"
         },
         {
-            "location": "/Parts/Frames/Hornet/#description_4",
+            "location": "/Parts/Frames/Hornet Frame/#description_4",
             "text": "Driving forward or backward with specified speed.",
             "title": "Description"
         },
         {
-            "location": "/Parts/Frames/Hornet/#power-consumption-2f_3",
+            "location": "/Parts/Frames/Hornet Frame/#power-consumption-2f_3",
             "text": "",
             "title": "Power consumption - 2f"
         },
         {
-            "location": "/Parts/Frames/Hornet/#parameters_3",
+            "location": "/Parts/Frames/Hornet Frame/#parameters_3",
             "text": "Run in backround       Type  Bool    Unit     Max  0    Min  0    Default  0    Values         Distance       Type  Slider    Unit  meters    Max  200f    Min  1f    Default  100f    Values         Speed       Type  Slider    Unit  km/h    Max  100f    Min  -100f    Default  100f    Values         Brake       Type  bool    Unit     Max  0    Min  0    Default  true    Values",
             "title": "Parameters"
         },
         {
-            "location": "/Parts/Frames/Hornet/#events",
+            "location": "/Parts/Frames/Hornet Frame/#events",
             "text": "",
             "title": "Events"
         },
         {
-            "location": "/Parts/Frames/Hornet/#operating-system-started",
+            "location": "/Parts/Frames/Hornet Frame/#operating-system-started",
             "text": "Event is triggered after bots operating system if started",
             "title": "[Operating system started]"
         },
         {
-            "location": "/Parts/Frames/Hornet/#inputparams",
+            "location": "/Parts/Frames/Hornet Frame/#inputparams",
             "text": "",
             "title": "InputParams"
         },
         {
-            "location": "/Parts/Frames/Hornet/#last-action-finished",
+            "location": "/Parts/Frames/Hornet Frame/#last-action-finished",
             "text": "Event is triggered if all actions has been executed",
             "title": "[Last action finished]"
         },
         {
-            "location": "/Parts/Frames/Hornet/#inputparams_1",
+            "location": "/Parts/Frames/Hornet Frame/#inputparams_1",
             "text": "",
             "title": "InputParams"
         },
         {
-            "location": "/Parts/Frames/Hornet/#slots",
+            "location": "/Parts/Frames/Hornet Frame/#slots",
             "text": "",
             "title": "Slots"
         },
         {
-            "location": "/Parts/Frames/Hornet/#system",
+            "location": "/Parts/Frames/Hornet Frame/#system",
             "text": "sys_ct - Right",
             "title": "[System]"
         },
         {
-            "location": "/Parts/Frames/Hornet/#battery",
+            "location": "/Parts/Frames/Hornet Frame/#battery",
             "text": "sn_b1 - Front",
             "title": "[Battery]"
         },
         {
-            "location": "/Parts/Frames/Hornet/#electronics",
+            "location": "/Parts/Frames/Hornet Frame/#electronics",
             "text": "sn_e3 - Front",
             "title": "[Electronics]"
         },
         {
-            "location": "/Parts/Frames/Hornet/#shield",
+            "location": "/Parts/Frames/Hornet Frame/#shield",
             "text": "sn_shield1 - Front",
             "title": "[Shield]"
         },
         {
-            "location": "/Parts/Frames/Scout/",
+            "location": "/Parts/Frames/Scout Frame/",
             "text": "Frames > \nScout Frame\n#\n\n\n\n\n\n\nDescription\n#\n\n\nSmall combat frame.\n\n\n\n\nCharacteristics\n#\n\n\n\n\n\n\n\n\nName\n\n\nValue\n\n\n\n\n\n\n\n\n\n\nMinRank\n\n\n2\n\n\n\n\n\n\nPrice\n\n\n100f,600f,1000f,3000f,4000f,5000f,\n\n\n\n\n\n\nMaxNumber\n\n\n1\n\n\n\n\n\n\nPower\n\n\n150f\n\n\n\n\n\n\nWeight\n\n\n250f\n\n\n\n\n\n\nShield\n\n\n500\n\n\n\n\n\n\nAcceleration\n\n\n0.3f\n\n\n\n\n\n\nBattery\n\n\n500\n\n\n\n\n\n\nMemory\n\n\n15\n\n\n\n\n\n\nBootTime\n\n\n3f\n\n\n\n\n\n\n\n\nActions\n#\n\n\n\n\n[\nWait\n]\n#\n\n\nDescription\n#\n\n\nPower consumption\n - 2f\n#\n\n\nParameters\n#\n\n\n\n\n\n\n\n\nTime\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\nseconds\n\n\n\n\n\n\nMax\n\n\n20f\n\n\n\n\n\n\nMin\n\n\n1f\n\n\n\n\n\n\nDefault\n\n\n1f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n[\nCancel actions\n]\n#\n\n\nDescription\n#\n\n\nPower consumption\n - 1f\n#\n\n\nParameters\n#\n\n\n\n\n\n\n\n\nDriving\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nBool\n\n\n\n\n\n\nUnit\n\n\n\n\n\n\n\n\nMax\n\n\n0\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\n1f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRotation\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nBool\n\n\n\n\n\n\nUnit\n\n\n\n\n\n\n\n\nMax\n\n\n0\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\n1f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAll\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nBool\n\n\n\n\n\n\nUnit\n\n\n\n\n\n\n\n\nMax\n\n\n0\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\n1f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n[\nRotate\n]\n#\n\n\nDescription\n#\n\n\nPower consumption\n - 2f\n#\n\n\nParameters\n#\n\n\n\n\n\n\n\n\nRun in backround\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nBool\n\n\n\n\n\n\nUnit\n\n\n\n\n\n\n\n\nMax\n\n\n0\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\n0\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAngle\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\ndegrees\n\n\n\n\n\n\nMax\n\n\n360f\n\n\n\n\n\n\nMin\n\n\n-360f\n\n\n\n\n\n\nDefault\n\n\n90f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRotation speed\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\npercent\n\n\n\n\n\n\nMax\n\n\n100f\n\n\n\n\n\n\nMin\n\n\n1\n\n\n\n\n\n\nDefault\n\n\n100f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n[\nRotate To Point\n]\n#\n\n\nDescription\n#\n\n\nPower consumption\n - 2f\n#\n\n\nParameters\n#\n\n\n\n\n\n\n\n\nRun in backround\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nBool\n\n\n\n\n\n\nUnit\n\n\n\n\n\n\n\n\nMax\n\n\n0\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\n0\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPoint\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nPoint\n\n\n\n\n\n\nUnit\n\n\n\n\n\n\n\n\nMax\n\n\n0\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\n0\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRotation speed\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\npercent\n\n\n\n\n\n\nMax\n\n\n100f\n\n\n\n\n\n\nMin\n\n\n1\n\n\n\n\n\n\nDefault\n\n\n100f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n[\nDrive\n]\n#\n\n\nDescription\n#\n\n\nPower consumption\n - 2f\n#\n\n\nParameters\n#\n\n\n\n\n\n\n\n\nRun in backround\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nBool\n\n\n\n\n\n\nUnit\n\n\n\n\n\n\n\n\nMax\n\n\n0\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\n0\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDistance\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\nmeters\n\n\n\n\n\n\nMax\n\n\n200f\n\n\n\n\n\n\nMin\n\n\n1f\n\n\n\n\n\n\nDefault\n\n\n200f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpeed\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\nkm/h\n\n\n\n\n\n\nMax\n\n\n100f\n\n\n\n\n\n\nMin\n\n\n-100f\n\n\n\n\n\n\nDefault\n\n\n100f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrake\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nbool\n\n\n\n\n\n\nUnit\n\n\n\n\n\n\n\n\nMax\n\n\n0\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\ntrue\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\nEvents\n#\n\n\n\n\n[Operating system started]\n#\n\n\nEvent is triggered after bots operating system if started\n\n\n\n\nInputParams\n#\n\n\n\n\n[Last action finished]\n#\n\n\nEvent is triggered if all actions has been executed\n\n\n\n\nInputParams\n#\n\n\nSlots\n#\n\n\n[System]\n#\n\n\nsys_s_ct - Right\n\n\n[Battery]\n#\n\n\ns_b1 - Front Battery\n\n\ns_b2 - Middle Battery\n\n\ns_b3 - Rear Battery\n\n\n[Weapon]\n#\n\n\ns_w1 - Front Weapon\n\n\ns_w2 - Center Weapon\n\n\n[Sensors]\n#\n\n\ns_s1 - Front Sensor\n\n\n[Electronics]\n#\n\n\ns_e1 - Front Right Electronics\n\n\ns_e2 - Front Left Electronics\n\n\ns_e3 - Rear Right Electronics\n\n\ns_e4 - Rear Left Electronics\n\n\n[Shield]\n#\n\n\ns_shield1 - Front Shield",
-            "title": "Scout"
+            "title": "Scout Frame"
         },
         {
-            "location": "/Parts/Frames/Scout/#frames-scout-frame",
+            "location": "/Parts/Frames/Scout Frame/#frames-scout-frame",
             "text": "",
             "title": "Frames &gt; Scout Frame"
         },
         {
-            "location": "/Parts/Frames/Scout/#description",
+            "location": "/Parts/Frames/Scout Frame/#description",
             "text": "Small combat frame.",
             "title": "Description"
         },
         {
-            "location": "/Parts/Frames/Scout/#characteristics",
+            "location": "/Parts/Frames/Scout Frame/#characteristics",
             "text": "Name  Value      MinRank  2    Price  100f,600f,1000f,3000f,4000f,5000f,    MaxNumber  1    Power  150f    Weight  250f    Shield  500    Acceleration  0.3f    Battery  500    Memory  15    BootTime  3f",
             "title": "Characteristics"
         },
         {
-            "location": "/Parts/Frames/Scout/#actions",
+            "location": "/Parts/Frames/Scout Frame/#actions",
             "text": "",
             "title": "Actions"
         },
         {
-            "location": "/Parts/Frames/Scout/#wait",
+            "location": "/Parts/Frames/Scout Frame/#wait",
             "text": "",
             "title": "[Wait]"
         },
         {
-            "location": "/Parts/Frames/Scout/#description_1",
+            "location": "/Parts/Frames/Scout Frame/#description_1",
             "text": "",
             "title": "Description"
         },
         {
-            "location": "/Parts/Frames/Scout/#power-consumption-2f",
+            "location": "/Parts/Frames/Scout Frame/#power-consumption-2f",
             "text": "",
             "title": "Power consumption - 2f"
         },
         {
-            "location": "/Parts/Frames/Scout/#parameters",
+            "location": "/Parts/Frames/Scout Frame/#parameters",
             "text": "Time       Type  Slider    Unit  seconds    Max  20f    Min  1f    Default  1f    Values",
             "title": "Parameters"
         },
         {
-            "location": "/Parts/Frames/Scout/#cancel-actions",
+            "location": "/Parts/Frames/Scout Frame/#cancel-actions",
             "text": "",
             "title": "[Cancel actions]"
         },
         {
-            "location": "/Parts/Frames/Scout/#description_2",
+            "location": "/Parts/Frames/Scout Frame/#description_2",
             "text": "",
             "title": "Description"
         },
         {
-            "location": "/Parts/Frames/Scout/#power-consumption-1f",
+            "location": "/Parts/Frames/Scout Frame/#power-consumption-1f",
             "text": "",
             "title": "Power consumption - 1f"
         },
         {
-            "location": "/Parts/Frames/Scout/#parameters_1",
+            "location": "/Parts/Frames/Scout Frame/#parameters_1",
             "text": "Driving       Type  Bool    Unit     Max  0    Min  0    Default  1f    Values         Rotation       Type  Bool    Unit     Max  0    Min  0    Default  1f    Values         All       Type  Bool    Unit     Max  0    Min  0    Default  1f    Values",
             "title": "Parameters"
         },
         {
-            "location": "/Parts/Frames/Scout/#rotate",
+            "location": "/Parts/Frames/Scout Frame/#rotate",
             "text": "",
             "title": "[Rotate]"
         },
         {
-            "location": "/Parts/Frames/Scout/#description_3",
+            "location": "/Parts/Frames/Scout Frame/#description_3",
             "text": "",
             "title": "Description"
         },
         {
-            "location": "/Parts/Frames/Scout/#power-consumption-2f_1",
+            "location": "/Parts/Frames/Scout Frame/#power-consumption-2f_1",
             "text": "",
             "title": "Power consumption - 2f"
         },
         {
-            "location": "/Parts/Frames/Scout/#parameters_2",
+            "location": "/Parts/Frames/Scout Frame/#parameters_2",
             "text": "Run in backround       Type  Bool    Unit     Max  0    Min  0    Default  0    Values         Angle       Type  Slider    Unit  degrees    Max  360f    Min  -360f    Default  90f    Values         Rotation speed       Type  Slider    Unit  percent    Max  100f    Min  1    Default  100f    Values",
             "title": "Parameters"
         },
         {
-            "location": "/Parts/Frames/Scout/#rotate-to-point",
+            "location": "/Parts/Frames/Scout Frame/#rotate-to-point",
             "text": "",
             "title": "[Rotate To Point]"
         },
         {
-            "location": "/Parts/Frames/Scout/#description_4",
+            "location": "/Parts/Frames/Scout Frame/#description_4",
             "text": "",
             "title": "Description"
         },
         {
-            "location": "/Parts/Frames/Scout/#power-consumption-2f_2",
+            "location": "/Parts/Frames/Scout Frame/#power-consumption-2f_2",
             "text": "",
             "title": "Power consumption - 2f"
         },
         {
-            "location": "/Parts/Frames/Scout/#parameters_3",
+            "location": "/Parts/Frames/Scout Frame/#parameters_3",
             "text": "Run in backround       Type  Bool    Unit     Max  0    Min  0    Default  0    Values         Point       Type  Point    Unit     Max  0    Min  0    Default  0    Values         Rotation speed       Type  Slider    Unit  percent    Max  100f    Min  1    Default  100f    Values",
             "title": "Parameters"
         },
         {
-            "location": "/Parts/Frames/Scout/#drive",
+            "location": "/Parts/Frames/Scout Frame/#drive",
             "text": "",
             "title": "[Drive]"
         },
         {
-            "location": "/Parts/Frames/Scout/#description_5",
+            "location": "/Parts/Frames/Scout Frame/#description_5",
             "text": "",
             "title": "Description"
         },
         {
-            "location": "/Parts/Frames/Scout/#power-consumption-2f_3",
+            "location": "/Parts/Frames/Scout Frame/#power-consumption-2f_3",
             "text": "",
             "title": "Power consumption - 2f"
         },
         {
-            "location": "/Parts/Frames/Scout/#parameters_4",
+            "location": "/Parts/Frames/Scout Frame/#parameters_4",
             "text": "Run in backround       Type  Bool    Unit     Max  0    Min  0    Default  0    Values         Distance       Type  Slider    Unit  meters    Max  200f    Min  1f    Default  200f    Values         Speed       Type  Slider    Unit  km/h    Max  100f    Min  -100f    Default  100f    Values         Brake       Type  bool    Unit     Max  0    Min  0    Default  true    Values",
             "title": "Parameters"
         },
         {
-            "location": "/Parts/Frames/Scout/#events",
+            "location": "/Parts/Frames/Scout Frame/#events",
             "text": "",
             "title": "Events"
         },
         {
-            "location": "/Parts/Frames/Scout/#operating-system-started",
+            "location": "/Parts/Frames/Scout Frame/#operating-system-started",
             "text": "Event is triggered after bots operating system if started",
             "title": "[Operating system started]"
         },
         {
-            "location": "/Parts/Frames/Scout/#inputparams",
+            "location": "/Parts/Frames/Scout Frame/#inputparams",
             "text": "",
             "title": "InputParams"
         },
         {
-            "location": "/Parts/Frames/Scout/#last-action-finished",
+            "location": "/Parts/Frames/Scout Frame/#last-action-finished",
             "text": "Event is triggered if all actions has been executed",
             "title": "[Last action finished]"
         },
         {
-            "location": "/Parts/Frames/Scout/#inputparams_1",
+            "location": "/Parts/Frames/Scout Frame/#inputparams_1",
             "text": "",
             "title": "InputParams"
         },
         {
-            "location": "/Parts/Frames/Scout/#slots",
+            "location": "/Parts/Frames/Scout Frame/#slots",
             "text": "",
             "title": "Slots"
         },
         {
-            "location": "/Parts/Frames/Scout/#system",
+            "location": "/Parts/Frames/Scout Frame/#system",
             "text": "sys_s_ct - Right",
             "title": "[System]"
         },
         {
-            "location": "/Parts/Frames/Scout/#battery",
+            "location": "/Parts/Frames/Scout Frame/#battery",
             "text": "s_b1 - Front Battery  s_b2 - Middle Battery  s_b3 - Rear Battery",
             "title": "[Battery]"
         },
         {
-            "location": "/Parts/Frames/Scout/#weapon",
+            "location": "/Parts/Frames/Scout Frame/#weapon",
             "text": "s_w1 - Front Weapon  s_w2 - Center Weapon",
             "title": "[Weapon]"
         },
         {
-            "location": "/Parts/Frames/Scout/#sensors",
+            "location": "/Parts/Frames/Scout Frame/#sensors",
             "text": "s_s1 - Front Sensor",
             "title": "[Sensors]"
         },
         {
-            "location": "/Parts/Frames/Scout/#electronics",
+            "location": "/Parts/Frames/Scout Frame/#electronics",
             "text": "s_e1 - Front Right Electronics  s_e2 - Front Left Electronics  s_e3 - Rear Right Electronics  s_e4 - Rear Left Electronics",
             "title": "[Electronics]"
         },
         {
-            "location": "/Parts/Frames/Scout/#shield",
+            "location": "/Parts/Frames/Scout Frame/#shield",
             "text": "s_shield1 - Front Shield",
             "title": "[Shield]"
         },
         {
-            "location": "/Parts/Sensors/DamageDetector/",
+            "location": "/Parts/Sensors/(Under development) Damage Detector/",
             "text": "Sensors > \n(Under development) Damage Detector\n#\n\n\n\n\n\n\nDescription\n#\n\n\nDetects when and where the bot has been hit. Sends the hit point to the On Hit event which allows to rotate to potencial enemy position.\n\n\n\n\nCharacteristics\n#\n\n\n\n\n\n\n\n\nName\n\n\nValue\n\n\n\n\n\n\n\n\n\n\nMinRank\n\n\n4\n\n\n\n\n\n\nPrice\n\n\n1000f,\n\n\n\n\n\n\nMaxNumber\n\n\n3\n\n\n\n\n\n\nWeight\n\n\n300f\n\n\n\n\n\n\nCoolingTime\n\n\n5f\n\n\n\n\n\n\n\n\nActions\n#\n\n\nEvents\n#\n\n\n\n\n[On Hit]\n#\n\n\nInputParams\n#\n\n\nSlots\n#",
-            "title": "DamageDetector"
+            "title": "(Under development) Damage Detector"
         },
         {
-            "location": "/Parts/Sensors/DamageDetector/#sensors-under-development-damage-detector",
+            "location": "/Parts/Sensors/(Under development) Damage Detector/#sensors-under-development-damage-detector",
             "text": "",
             "title": "Sensors &gt; (Under development) Damage Detector"
         },
         {
-            "location": "/Parts/Sensors/DamageDetector/#description",
+            "location": "/Parts/Sensors/(Under development) Damage Detector/#description",
             "text": "Detects when and where the bot has been hit. Sends the hit point to the On Hit event which allows to rotate to potencial enemy position.",
             "title": "Description"
         },
         {
-            "location": "/Parts/Sensors/DamageDetector/#characteristics",
+            "location": "/Parts/Sensors/(Under development) Damage Detector/#characteristics",
             "text": "Name  Value      MinRank  4    Price  1000f,    MaxNumber  3    Weight  300f    CoolingTime  5f",
             "title": "Characteristics"
         },
         {
-            "location": "/Parts/Sensors/DamageDetector/#actions",
+            "location": "/Parts/Sensors/(Under development) Damage Detector/#actions",
             "text": "",
             "title": "Actions"
         },
         {
-            "location": "/Parts/Sensors/DamageDetector/#events",
+            "location": "/Parts/Sensors/(Under development) Damage Detector/#events",
             "text": "",
             "title": "Events"
         },
         {
-            "location": "/Parts/Sensors/DamageDetector/#on-hit",
+            "location": "/Parts/Sensors/(Under development) Damage Detector/#on-hit",
             "text": "",
             "title": "[On Hit]"
         },
         {
-            "location": "/Parts/Sensors/DamageDetector/#inputparams",
+            "location": "/Parts/Sensors/(Under development) Damage Detector/#inputparams",
             "text": "",
             "title": "InputParams"
         },
         {
-            "location": "/Parts/Sensors/DamageDetector/#slots",
+            "location": "/Parts/Sensors/(Under development) Damage Detector/#slots",
             "text": "",
             "title": "Slots"
         },
         {
-            "location": "/Parts/Sensors/DistanceSensor/",
-            "text": "Sensors > \nShort Range Distance Sensor\n#\n\n\n\n\n\n\nDescription\n#\n\n\nMeasures distance to the nearest object.\n\n\n\n\nCharacteristics\n#\n\n\n\n\n\n\n\n\nName\n\n\nValue\n\n\n\n\n\n\n\n\n\n\nMinRank\n\n\n2\n\n\n\n\n\n\nPrice\n\n\n140f,500f,1000f,1500f,\n\n\n\n\n\n\nMaxNumber\n\n\n2\n\n\n\n\n\n\nWeight\n\n\n300f\n\n\n\n\n\n\n\n\nActions\n#\n\n\n\n\n[\nTurn On\n]    OnObjectDetected\n#\n\n\nDescription\n#\n\n\nTurns on Distance Sensor.\n\n\n\n\nPower consumption\n - 5f\n#\n\n\nParameters\n#\n\n\n\n\n\n\n\n\nInterval\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\nsec.\n\n\n\n\n\n\nMax\n\n\n10f\n\n\n\n\n\n\nMin\n\n\n1f\n\n\n\n\n\n\nDefault\n\n\n1f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRange\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\nm.\n\n\n\n\n\n\nMax\n\n\n35f\n\n\n\n\n\n\nMin\n\n\n1f\n\n\n\n\n\n\nDefault\n\n\n35f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n[\nTurn Off\n]\n#\n\n\nDescription\n#\n\n\nTurns off Distance Sensor.\n\n\n\n\nPower consumption\n - 1f\n#\n\n\nParameters\n#\n\n\nEvents\n#\n\n\n\n\n[Object detected]\n#\n\n\nEvent is triggered if distance sensor detects object\n\n\n\n\nInputParams\n#\n\n\nSlots\n#",
-            "title": "DistanceSensor"
-        },
-        {
-            "location": "/Parts/Sensors/DistanceSensor/#sensors-short-range-distance-sensor",
-            "text": "",
-            "title": "Sensors &gt; Short Range Distance Sensor"
-        },
-        {
-            "location": "/Parts/Sensors/DistanceSensor/#description",
-            "text": "Measures distance to the nearest object.",
-            "title": "Description"
-        },
-        {
-            "location": "/Parts/Sensors/DistanceSensor/#characteristics",
-            "text": "Name  Value      MinRank  2    Price  140f,500f,1000f,1500f,    MaxNumber  2    Weight  300f",
-            "title": "Characteristics"
-        },
-        {
-            "location": "/Parts/Sensors/DistanceSensor/#actions",
-            "text": "",
-            "title": "Actions"
-        },
-        {
-            "location": "/Parts/Sensors/DistanceSensor/#turn-on-onobjectdetected",
-            "text": "",
-            "title": "[Turn On]    OnObjectDetected"
-        },
-        {
-            "location": "/Parts/Sensors/DistanceSensor/#description_1",
-            "text": "Turns on Distance Sensor.",
-            "title": "Description"
-        },
-        {
-            "location": "/Parts/Sensors/DistanceSensor/#power-consumption-5f",
-            "text": "",
-            "title": "Power consumption - 5f"
-        },
-        {
-            "location": "/Parts/Sensors/DistanceSensor/#parameters",
-            "text": "Interval       Type  Slider    Unit  sec.    Max  10f    Min  1f    Default  1f    Values         Range       Type  Slider    Unit  m.    Max  35f    Min  1f    Default  35f    Values",
-            "title": "Parameters"
-        },
-        {
-            "location": "/Parts/Sensors/DistanceSensor/#turn-off",
-            "text": "",
-            "title": "[Turn Off]"
-        },
-        {
-            "location": "/Parts/Sensors/DistanceSensor/#description_2",
-            "text": "Turns off Distance Sensor.",
-            "title": "Description"
-        },
-        {
-            "location": "/Parts/Sensors/DistanceSensor/#power-consumption-1f",
-            "text": "",
-            "title": "Power consumption - 1f"
-        },
-        {
-            "location": "/Parts/Sensors/DistanceSensor/#parameters_1",
-            "text": "",
-            "title": "Parameters"
-        },
-        {
-            "location": "/Parts/Sensors/DistanceSensor/#events",
-            "text": "",
-            "title": "Events"
-        },
-        {
-            "location": "/Parts/Sensors/DistanceSensor/#object-detected",
-            "text": "Event is triggered if distance sensor detects object",
-            "title": "[Object detected]"
-        },
-        {
-            "location": "/Parts/Sensors/DistanceSensor/#inputparams",
-            "text": "",
-            "title": "InputParams"
-        },
-        {
-            "location": "/Parts/Sensors/DistanceSensor/#slots",
-            "text": "",
-            "title": "Slots"
-        },
-        {
-            "location": "/Parts/Sensors/MineDetector/",
+            "location": "/Parts/Sensors/Mine detector MD-50/",
             "text": "Sensors > \nMine detector MD-50\n#\n\n\n\n\n\n\nDescription\n#\n\n\nDetects mines..\n\n\n\n\nCharacteristics\n#\n\n\n\n\n\n\n\n\nName\n\n\nValue\n\n\n\n\n\n\n\n\n\n\nMinRank\n\n\n4\n\n\n\n\n\n\nPrice\n\n\n100f,600f,1000f,1300f,\n\n\n\n\n\n\nMaxNumber\n\n\n3\n\n\n\n\n\n\nWeight\n\n\n400f\n\n\n\n\n\n\n\n\nActions\n#\n\n\n\n\n[\nTurn On\n]\n#\n\n\nDescription\n#\n\n\nPower consumption\n - 5f\n#\n\n\nParameters\n#\n\n\n\n\n\n\n\n\nInterval\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\nseconds\n\n\n\n\n\n\nMax\n\n\n10f\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\n1f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n[\nTurn Off\n]\n#\n\n\nDescription\n#\n\n\nPower consumption\n - 1f\n#\n\n\nParameters\n#\n\n\nEvents\n#\n\n\n\n\n[Mine has been detected]\n#\n\n\nEvent is triggered if mine has been detected\n\n\n\n\nInputParams\n#\n\n\nSlots\n#",
-            "title": "MineDetector"
+            "title": "Mine detector MD 50"
         },
         {
-            "location": "/Parts/Sensors/MineDetector/#sensors-mine-detector-md-50",
+            "location": "/Parts/Sensors/Mine detector MD-50/#sensors-mine-detector-md-50",
             "text": "",
             "title": "Sensors &gt; Mine detector MD-50"
         },
         {
-            "location": "/Parts/Sensors/MineDetector/#description",
+            "location": "/Parts/Sensors/Mine detector MD-50/#description",
             "text": "Detects mines..",
             "title": "Description"
         },
         {
-            "location": "/Parts/Sensors/MineDetector/#characteristics",
+            "location": "/Parts/Sensors/Mine detector MD-50/#characteristics",
             "text": "Name  Value      MinRank  4    Price  100f,600f,1000f,1300f,    MaxNumber  3    Weight  400f",
             "title": "Characteristics"
         },
         {
-            "location": "/Parts/Sensors/MineDetector/#actions",
+            "location": "/Parts/Sensors/Mine detector MD-50/#actions",
             "text": "",
             "title": "Actions"
         },
         {
-            "location": "/Parts/Sensors/MineDetector/#turn-on",
+            "location": "/Parts/Sensors/Mine detector MD-50/#turn-on",
             "text": "",
             "title": "[Turn On]"
         },
         {
-            "location": "/Parts/Sensors/MineDetector/#description_1",
+            "location": "/Parts/Sensors/Mine detector MD-50/#description_1",
             "text": "",
             "title": "Description"
         },
         {
-            "location": "/Parts/Sensors/MineDetector/#power-consumption-5f",
+            "location": "/Parts/Sensors/Mine detector MD-50/#power-consumption-5f",
             "text": "",
             "title": "Power consumption - 5f"
         },
         {
-            "location": "/Parts/Sensors/MineDetector/#parameters",
+            "location": "/Parts/Sensors/Mine detector MD-50/#parameters",
             "text": "Interval       Type  Slider    Unit  seconds    Max  10f    Min  0    Default  1f    Values",
             "title": "Parameters"
         },
         {
-            "location": "/Parts/Sensors/MineDetector/#turn-off",
+            "location": "/Parts/Sensors/Mine detector MD-50/#turn-off",
             "text": "",
             "title": "[Turn Off]"
         },
         {
-            "location": "/Parts/Sensors/MineDetector/#description_2",
+            "location": "/Parts/Sensors/Mine detector MD-50/#description_2",
             "text": "",
             "title": "Description"
         },
         {
-            "location": "/Parts/Sensors/MineDetector/#power-consumption-1f",
+            "location": "/Parts/Sensors/Mine detector MD-50/#power-consumption-1f",
             "text": "",
             "title": "Power consumption - 1f"
         },
         {
-            "location": "/Parts/Sensors/MineDetector/#parameters_1",
+            "location": "/Parts/Sensors/Mine detector MD-50/#parameters_1",
             "text": "",
             "title": "Parameters"
         },
         {
-            "location": "/Parts/Sensors/MineDetector/#events",
+            "location": "/Parts/Sensors/Mine detector MD-50/#events",
             "text": "",
             "title": "Events"
         },
         {
-            "location": "/Parts/Sensors/MineDetector/#mine-has-been-detected",
+            "location": "/Parts/Sensors/Mine detector MD-50/#mine-has-been-detected",
             "text": "Event is triggered if mine has been detected",
             "title": "[Mine has been detected]"
         },
         {
-            "location": "/Parts/Sensors/MineDetector/#inputparams",
+            "location": "/Parts/Sensors/Mine detector MD-50/#inputparams",
             "text": "",
             "title": "InputParams"
         },
         {
-            "location": "/Parts/Sensors/MineDetector/#slots",
+            "location": "/Parts/Sensors/Mine detector MD-50/#slots",
             "text": "",
             "title": "Slots"
         },
         {
-            "location": "/Parts/Sensors/Radar_SR20/",
+            "location": "/Parts/Sensors/Radar - SR20/",
             "text": "Sensors > \nRadar - SR20\n#\n\n\n\n\n\n\nDescription\n#\n\n\nScanning the battlefield is an essential element of the battle. It allows your bot to find enemies positions.\n\n\n\n\nCharacteristics\n#\n\n\n\n\n\n\n\n\nName\n\n\nValue\n\n\n\n\n\n\n\n\n\n\nMinRank\n\n\n3\n\n\n\n\n\n\nPrice\n\n\n150f,300f,500f,1000f,\n\n\n\n\n\n\nMaxNumber\n\n\n3\n\n\n\n\n\n\nWeight\n\n\n400f\n\n\n\n\n\n\n\n\nActions\n#\n\n\n\n\n[\nScan\n]   OnScanComplete\n#\n\n\nDescription\n#\n\n\nPower consumption\n - 20f\n#\n\n\nParameters\n#\n\n\n\n\n\n\n\n\nRun in backround\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nBool\n\n\n\n\n\n\nUnit\n\n\n\n\n\n\n\n\nMax\n\n\n0\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\n0\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRange\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\nmeters\n\n\n\n\n\n\nMax\n\n\n20f\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\n20f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\nEvents\n#\n\n\n\n\n[Radar scanning completed]\n#\n\n\nEvent is triggered if Radar finish scanning the field\n\n\n\n\nInputParams\n#\n\n\nClosest enemy\n (Point)\n#\n\n\nSlots\n#",
-            "title": "Radar SR20"
+            "title": "Radar   SR20"
         },
         {
-            "location": "/Parts/Sensors/Radar_SR20/#sensors-radar-sr20",
+            "location": "/Parts/Sensors/Radar - SR20/#sensors-radar-sr20",
             "text": "",
             "title": "Sensors &gt; Radar - SR20"
         },
         {
-            "location": "/Parts/Sensors/Radar_SR20/#description",
+            "location": "/Parts/Sensors/Radar - SR20/#description",
             "text": "Scanning the battlefield is an essential element of the battle. It allows your bot to find enemies positions.",
             "title": "Description"
         },
         {
-            "location": "/Parts/Sensors/Radar_SR20/#characteristics",
+            "location": "/Parts/Sensors/Radar - SR20/#characteristics",
             "text": "Name  Value      MinRank  3    Price  150f,300f,500f,1000f,    MaxNumber  3    Weight  400f",
             "title": "Characteristics"
         },
         {
-            "location": "/Parts/Sensors/Radar_SR20/#actions",
+            "location": "/Parts/Sensors/Radar - SR20/#actions",
             "text": "",
             "title": "Actions"
         },
         {
-            "location": "/Parts/Sensors/Radar_SR20/#scan-onscancomplete",
+            "location": "/Parts/Sensors/Radar - SR20/#scan-onscancomplete",
             "text": "",
             "title": "[Scan]   OnScanComplete"
         },
         {
-            "location": "/Parts/Sensors/Radar_SR20/#description_1",
+            "location": "/Parts/Sensors/Radar - SR20/#description_1",
             "text": "",
             "title": "Description"
         },
         {
-            "location": "/Parts/Sensors/Radar_SR20/#power-consumption-20f",
+            "location": "/Parts/Sensors/Radar - SR20/#power-consumption-20f",
             "text": "",
             "title": "Power consumption - 20f"
         },
         {
-            "location": "/Parts/Sensors/Radar_SR20/#parameters",
+            "location": "/Parts/Sensors/Radar - SR20/#parameters",
             "text": "Run in backround       Type  Bool    Unit     Max  0    Min  0    Default  0    Values         Range       Type  Slider    Unit  meters    Max  20f    Min  0    Default  20f    Values",
             "title": "Parameters"
         },
         {
-            "location": "/Parts/Sensors/Radar_SR20/#events",
+            "location": "/Parts/Sensors/Radar - SR20/#events",
             "text": "",
             "title": "Events"
         },
         {
-            "location": "/Parts/Sensors/Radar_SR20/#radar-scanning-completed",
+            "location": "/Parts/Sensors/Radar - SR20/#radar-scanning-completed",
             "text": "Event is triggered if Radar finish scanning the field",
             "title": "[Radar scanning completed]"
         },
         {
-            "location": "/Parts/Sensors/Radar_SR20/#inputparams",
+            "location": "/Parts/Sensors/Radar - SR20/#inputparams",
             "text": "",
             "title": "InputParams"
         },
         {
-            "location": "/Parts/Sensors/Radar_SR20/#closest-enemy-point",
+            "location": "/Parts/Sensors/Radar - SR20/#closest-enemy-point",
             "text": "",
             "title": "Closest enemy (Point)"
         },
         {
-            "location": "/Parts/Sensors/Radar_SR20/#slots",
+            "location": "/Parts/Sensors/Radar - SR20/#slots",
             "text": "",
             "title": "Slots"
         },
         {
-            "location": "/Parts/Shield/ForceField/",
-            "text": "Shield > \nForce Field Generator\n#\n\n\n\n\n\n\nDescription\n#\n\n\nGenerates force field around your bot and protects it from cannon bullets. You can specify the percentage of the current battery level that will be transfered to the shield.\n\n\n\n\nCharacteristics\n#\n\n\n\n\n\n\n\n\nName\n\n\nValue\n\n\n\n\n\n\n\n\n\n\nMinRank\n\n\n4\n\n\n\n\n\n\nPrice\n\n\n300f,700f,1200f,1800f,\n\n\n\n\n\n\nMaxNumber\n\n\n3\n\n\n\n\n\n\nWeight\n\n\n250f\n\n\n\n\n\n\n\n\nActions\n#\n\n\n\n\n[\nActivate Force Field Generator\n]\n#\n\n\nDescription\n#\n\n\nPower consumption\n - 5f\n#\n\n\nParameters\n#\n\n\n\n\n\n\n\n\nBattery to Shield\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\nPercent of Battery\n\n\n\n\n\n\nMax\n\n\n100f\n\n\n\n\n\n\nMin\n\n\n1f\n\n\n\n\n\n\nDefault\n\n\n20f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\nEvents\n#\n\n\nSlots\n#",
-            "title": "ForceField"
+            "location": "/Parts/Sensors/Short Range Distance Sensor/",
+            "text": "Sensors > \nShort Range Distance Sensor\n#\n\n\n\n\n\n\nDescription\n#\n\n\nMeasures distance to the nearest object.\n\n\n\n\nCharacteristics\n#\n\n\n\n\n\n\n\n\nName\n\n\nValue\n\n\n\n\n\n\n\n\n\n\nMinRank\n\n\n2\n\n\n\n\n\n\nPrice\n\n\n140f,500f,1000f,1500f,\n\n\n\n\n\n\nMaxNumber\n\n\n2\n\n\n\n\n\n\nWeight\n\n\n300f\n\n\n\n\n\n\n\n\nActions\n#\n\n\n\n\n[\nTurn On\n]    OnObjectDetected\n#\n\n\nDescription\n#\n\n\nTurns on Distance Sensor.\n\n\n\n\nPower consumption\n - 5f\n#\n\n\nParameters\n#\n\n\n\n\n\n\n\n\nInterval\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\nsec.\n\n\n\n\n\n\nMax\n\n\n10f\n\n\n\n\n\n\nMin\n\n\n1f\n\n\n\n\n\n\nDefault\n\n\n1f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRange\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\nm.\n\n\n\n\n\n\nMax\n\n\n35f\n\n\n\n\n\n\nMin\n\n\n1f\n\n\n\n\n\n\nDefault\n\n\n35f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n[\nTurn Off\n]\n#\n\n\nDescription\n#\n\n\nTurns off Distance Sensor.\n\n\n\n\nPower consumption\n - 1f\n#\n\n\nParameters\n#\n\n\nEvents\n#\n\n\n\n\n[Object detected]\n#\n\n\nEvent is triggered if distance sensor detects object\n\n\n\n\nInputParams\n#\n\n\nSlots\n#",
+            "title": "Short Range Distance Sensor"
         },
         {
-            "location": "/Parts/Shield/ForceField/#shield-force-field-generator",
+            "location": "/Parts/Sensors/Short Range Distance Sensor/#sensors-short-range-distance-sensor",
             "text": "",
-            "title": "Shield &gt; Force Field Generator"
+            "title": "Sensors &gt; Short Range Distance Sensor"
         },
         {
-            "location": "/Parts/Shield/ForceField/#description",
-            "text": "Generates force field around your bot and protects it from cannon bullets. You can specify the percentage of the current battery level that will be transfered to the shield.",
+            "location": "/Parts/Sensors/Short Range Distance Sensor/#description",
+            "text": "Measures distance to the nearest object.",
             "title": "Description"
         },
         {
-            "location": "/Parts/Shield/ForceField/#characteristics",
-            "text": "Name  Value      MinRank  4    Price  300f,700f,1200f,1800f,    MaxNumber  3    Weight  250f",
+            "location": "/Parts/Sensors/Short Range Distance Sensor/#characteristics",
+            "text": "Name  Value      MinRank  2    Price  140f,500f,1000f,1500f,    MaxNumber  2    Weight  300f",
             "title": "Characteristics"
         },
         {
-            "location": "/Parts/Shield/ForceField/#actions",
+            "location": "/Parts/Sensors/Short Range Distance Sensor/#actions",
             "text": "",
             "title": "Actions"
         },
         {
-            "location": "/Parts/Shield/ForceField/#activate-force-field-generator",
+            "location": "/Parts/Sensors/Short Range Distance Sensor/#turn-on-onobjectdetected",
             "text": "",
-            "title": "[Activate Force Field Generator]"
+            "title": "[Turn On]    OnObjectDetected"
         },
         {
-            "location": "/Parts/Shield/ForceField/#description_1",
-            "text": "",
+            "location": "/Parts/Sensors/Short Range Distance Sensor/#description_1",
+            "text": "Turns on Distance Sensor.",
             "title": "Description"
         },
         {
-            "location": "/Parts/Shield/ForceField/#power-consumption-5f",
+            "location": "/Parts/Sensors/Short Range Distance Sensor/#power-consumption-5f",
             "text": "",
             "title": "Power consumption - 5f"
         },
         {
-            "location": "/Parts/Shield/ForceField/#parameters",
+            "location": "/Parts/Sensors/Short Range Distance Sensor/#parameters",
+            "text": "Interval       Type  Slider    Unit  sec.    Max  10f    Min  1f    Default  1f    Values         Range       Type  Slider    Unit  m.    Max  35f    Min  1f    Default  35f    Values",
+            "title": "Parameters"
+        },
+        {
+            "location": "/Parts/Sensors/Short Range Distance Sensor/#turn-off",
+            "text": "",
+            "title": "[Turn Off]"
+        },
+        {
+            "location": "/Parts/Sensors/Short Range Distance Sensor/#description_2",
+            "text": "Turns off Distance Sensor.",
+            "title": "Description"
+        },
+        {
+            "location": "/Parts/Sensors/Short Range Distance Sensor/#power-consumption-1f",
+            "text": "",
+            "title": "Power consumption - 1f"
+        },
+        {
+            "location": "/Parts/Sensors/Short Range Distance Sensor/#parameters_1",
+            "text": "",
+            "title": "Parameters"
+        },
+        {
+            "location": "/Parts/Sensors/Short Range Distance Sensor/#events",
+            "text": "",
+            "title": "Events"
+        },
+        {
+            "location": "/Parts/Sensors/Short Range Distance Sensor/#object-detected",
+            "text": "Event is triggered if distance sensor detects object",
+            "title": "[Object detected]"
+        },
+        {
+            "location": "/Parts/Sensors/Short Range Distance Sensor/#inputparams",
+            "text": "",
+            "title": "InputParams"
+        },
+        {
+            "location": "/Parts/Sensors/Short Range Distance Sensor/#slots",
+            "text": "",
+            "title": "Slots"
+        },
+        {
+            "location": "/Parts/Shield/Force Field Generator/",
+            "text": "Shield > \nForce Field Generator\n#\n\n\n\n\n\n\nDescription\n#\n\n\nGenerates force field around your bot and protects it from cannon bullets. You can specify the percentage of the current battery level that will be transfered to the shield.\n\n\n\n\nCharacteristics\n#\n\n\n\n\n\n\n\n\nName\n\n\nValue\n\n\n\n\n\n\n\n\n\n\nMinRank\n\n\n4\n\n\n\n\n\n\nPrice\n\n\n300f,700f,1200f,1800f,\n\n\n\n\n\n\nMaxNumber\n\n\n3\n\n\n\n\n\n\nWeight\n\n\n250f\n\n\n\n\n\n\n\n\nActions\n#\n\n\n\n\n[\nActivate Force Field Generator\n]\n#\n\n\nDescription\n#\n\n\nPower consumption\n - 5f\n#\n\n\nParameters\n#\n\n\n\n\n\n\n\n\nBattery to Shield\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\nPercent of Battery\n\n\n\n\n\n\nMax\n\n\n100f\n\n\n\n\n\n\nMin\n\n\n1f\n\n\n\n\n\n\nDefault\n\n\n20f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\nEvents\n#\n\n\nSlots\n#",
+            "title": "Force Field Generator"
+        },
+        {
+            "location": "/Parts/Shield/Force Field Generator/#shield-force-field-generator",
+            "text": "",
+            "title": "Shield &gt; Force Field Generator"
+        },
+        {
+            "location": "/Parts/Shield/Force Field Generator/#description",
+            "text": "Generates force field around your bot and protects it from cannon bullets. You can specify the percentage of the current battery level that will be transfered to the shield.",
+            "title": "Description"
+        },
+        {
+            "location": "/Parts/Shield/Force Field Generator/#characteristics",
+            "text": "Name  Value      MinRank  4    Price  300f,700f,1200f,1800f,    MaxNumber  3    Weight  250f",
+            "title": "Characteristics"
+        },
+        {
+            "location": "/Parts/Shield/Force Field Generator/#actions",
+            "text": "",
+            "title": "Actions"
+        },
+        {
+            "location": "/Parts/Shield/Force Field Generator/#activate-force-field-generator",
+            "text": "",
+            "title": "[Activate Force Field Generator]"
+        },
+        {
+            "location": "/Parts/Shield/Force Field Generator/#description_1",
+            "text": "",
+            "title": "Description"
+        },
+        {
+            "location": "/Parts/Shield/Force Field Generator/#power-consumption-5f",
+            "text": "",
+            "title": "Power consumption - 5f"
+        },
+        {
+            "location": "/Parts/Shield/Force Field Generator/#parameters",
             "text": "Battery to Shield       Type  Slider    Unit  Percent of Battery    Max  100f    Min  1f    Default  20f    Values",
             "title": "Parameters"
         },
         {
-            "location": "/Parts/Shield/ForceField/#events",
+            "location": "/Parts/Shield/Force Field Generator/#events",
             "text": "",
             "title": "Events"
         },
         {
-            "location": "/Parts/Shield/ForceField/#slots",
+            "location": "/Parts/Shield/Force Field Generator/#slots",
             "text": "",
             "title": "Slots"
         },
         {
-            "location": "/Parts/Shield/StealthField/",
+            "location": "/Parts/Shield/Stealth Field Generator/",
             "text": "Shield > \nStealth Field Generator\n#\n\n\n\n\n\n\nDescription\n#\n\n\nThis generator makes your bot invisible for radars.\n\n\n\n\nCharacteristics\n#\n\n\n\n\n\n\n\n\nName\n\n\nValue\n\n\n\n\n\n\n\n\n\n\nMinRank\n\n\n4\n\n\n\n\n\n\nPrice\n\n\n300f,1500f,4000f,8000f,\n\n\n\n\n\n\nMaxNumber\n\n\n3\n\n\n\n\n\n\nWeight\n\n\n250f\n\n\n\n\n\n\nCoolingTime\n\n\n10f\n\n\n\n\n\n\n\n\nActions\n#\n\n\n\n\n[\nActivate Stealth Field Generator\n]\n#\n\n\nDescription\n#\n\n\nConsumes 150 energy units per second\n\n\n\n\nPower consumption\n - 150f\n#\n\n\nParameters\n#\n\n\n\n\n\n\n\n\nActivation time\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\nseconds\n\n\n\n\n\n\nMax\n\n\n15f\n\n\n\n\n\n\nMin\n\n\n1f\n\n\n\n\n\n\nDefault\n\n\n5f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\nEvents\n#\n\n\nSlots\n#",
-            "title": "StealthField"
+            "title": "Stealth Field Generator"
         },
         {
-            "location": "/Parts/Shield/StealthField/#shield-stealth-field-generator",
+            "location": "/Parts/Shield/Stealth Field Generator/#shield-stealth-field-generator",
             "text": "",
             "title": "Shield &gt; Stealth Field Generator"
         },
         {
-            "location": "/Parts/Shield/StealthField/#description",
+            "location": "/Parts/Shield/Stealth Field Generator/#description",
             "text": "This generator makes your bot invisible for radars.",
             "title": "Description"
         },
         {
-            "location": "/Parts/Shield/StealthField/#characteristics",
+            "location": "/Parts/Shield/Stealth Field Generator/#characteristics",
             "text": "Name  Value      MinRank  4    Price  300f,1500f,4000f,8000f,    MaxNumber  3    Weight  250f    CoolingTime  10f",
             "title": "Characteristics"
         },
         {
-            "location": "/Parts/Shield/StealthField/#actions",
+            "location": "/Parts/Shield/Stealth Field Generator/#actions",
             "text": "",
             "title": "Actions"
         },
         {
-            "location": "/Parts/Shield/StealthField/#activate-stealth-field-generator",
+            "location": "/Parts/Shield/Stealth Field Generator/#activate-stealth-field-generator",
             "text": "",
             "title": "[Activate Stealth Field Generator]"
         },
         {
-            "location": "/Parts/Shield/StealthField/#description_1",
+            "location": "/Parts/Shield/Stealth Field Generator/#description_1",
             "text": "Consumes 150 energy units per second",
             "title": "Description"
         },
         {
-            "location": "/Parts/Shield/StealthField/#power-consumption-150f",
+            "location": "/Parts/Shield/Stealth Field Generator/#power-consumption-150f",
             "text": "",
             "title": "Power consumption - 150f"
         },
         {
-            "location": "/Parts/Shield/StealthField/#parameters",
+            "location": "/Parts/Shield/Stealth Field Generator/#parameters",
             "text": "Activation time       Type  Slider    Unit  seconds    Max  15f    Min  1f    Default  5f    Values",
             "title": "Parameters"
         },
         {
-            "location": "/Parts/Shield/StealthField/#events",
+            "location": "/Parts/Shield/Stealth Field Generator/#events",
             "text": "",
             "title": "Events"
         },
         {
-            "location": "/Parts/Shield/StealthField/#slots",
+            "location": "/Parts/Shield/Stealth Field Generator/#slots",
             "text": "",
             "title": "Slots"
         },
         {
-            "location": "/Parts/System/CoinThrower/",
+            "location": "/Parts/System/Coin Thrower/",
             "text": "System > \nCoin Thrower\n#\n\n\n\n\n\n\nDescription\n#\n\n\nThe most useless part of your bot. Additional electronic protection which allows to start the bot only if you insert a special BootCoin. It&#39;s possible to remove that junk part for a symbolic fee and give your bot unlimited number of free starts\n\n\n\n\nCharacteristics\n#\n\n\n\n\n\n\n\n\nName\n\n\nValue\n\n\n\n\n\n\n\n\n\n\nActions\n#\n\n\nEvents\n#\n\n\nSlots\n#",
-            "title": "CoinThrower"
+            "title": "Coin Thrower"
         },
         {
-            "location": "/Parts/System/CoinThrower/#system-coin-thrower",
+            "location": "/Parts/System/Coin Thrower/#system-coin-thrower",
             "text": "",
             "title": "System &gt; Coin Thrower"
         },
         {
-            "location": "/Parts/System/CoinThrower/#description",
+            "location": "/Parts/System/Coin Thrower/#description",
             "text": "The most useless part of your bot. Additional electronic protection which allows to start the bot only if you insert a special BootCoin. It&#39;s possible to remove that junk part for a symbolic fee and give your bot unlimited number of free starts",
             "title": "Description"
         },
         {
-            "location": "/Parts/System/CoinThrower/#characteristics",
+            "location": "/Parts/System/Coin Thrower/#characteristics",
             "text": "Name  Value",
             "title": "Characteristics"
         },
         {
-            "location": "/Parts/System/CoinThrower/#actions",
+            "location": "/Parts/System/Coin Thrower/#actions",
             "text": "",
             "title": "Actions"
         },
         {
-            "location": "/Parts/System/CoinThrower/#events",
+            "location": "/Parts/System/Coin Thrower/#events",
             "text": "",
             "title": "Events"
         },
         {
-            "location": "/Parts/System/CoinThrower/#slots",
+            "location": "/Parts/System/Coin Thrower/#slots",
             "text": "",
             "title": "Slots"
         },
@@ -1227,7 +1227,7 @@
         },
         {
             "location": "/Parts/System/LaserCannonBullet/",
-            "text": "System > \nLaserCannonBullet\n#\n\n\n\n\n\n\nDescription\n#\n\n\nCharacteristics\n#\n\n\n\n\n\n\n\n\nName\n\n\nValue\n\n\n\n\n\n\n\n\n\n\nDamage\n\n\n500f\n\n\n\n\n\n\n\n\nActions\n#\n\n\nEvents\n#\n\n\nSlots\n#",
+            "text": "System > \nLaserCannonBullet\n#\n\n\n\n\n\n\nDescription\n#\n\n\nCharacteristics\n#\n\n\n\n\n\n\n\n\nName\n\n\nValue\n\n\n\n\n\n\n\n\n\n\nDamage\n\n\n200f\n\n\n\n\n\n\n\n\nActions\n#\n\n\nEvents\n#\n\n\nSlots\n#",
             "title": "LaserCannonBullet"
         },
         {
@@ -1242,7 +1242,7 @@
         },
         {
             "location": "/Parts/System/LaserCannonBullet/#characteristics",
-            "text": "Name  Value      Damage  500f",
+            "text": "Name  Value      Damage  200f",
             "title": "Characteristics"
         },
         {
@@ -1292,41 +1292,6 @@
         },
         {
             "location": "/Parts/System/MineDetectorRegion/#slots",
-            "text": "",
-            "title": "Slots"
-        },
-        {
-            "location": "/Parts/System/RocketTurretBullet/",
-            "text": "System > \nLaserCannonBullet\n#\n\n\n\n\n\n\nDescription\n#\n\n\nCharacteristics\n#\n\n\n\n\n\n\n\n\nName\n\n\nValue\n\n\n\n\n\n\n\n\n\n\nDamage\n\n\n200f\n\n\n\n\n\n\n\n\nActions\n#\n\n\nEvents\n#\n\n\nSlots\n#",
-            "title": "RocketTurretBullet"
-        },
-        {
-            "location": "/Parts/System/RocketTurretBullet/#system-lasercannonbullet",
-            "text": "",
-            "title": "System &gt; LaserCannonBullet"
-        },
-        {
-            "location": "/Parts/System/RocketTurretBullet/#description",
-            "text": "",
-            "title": "Description"
-        },
-        {
-            "location": "/Parts/System/RocketTurretBullet/#characteristics",
-            "text": "Name  Value      Damage  200f",
-            "title": "Characteristics"
-        },
-        {
-            "location": "/Parts/System/RocketTurretBullet/#actions",
-            "text": "",
-            "title": "Actions"
-        },
-        {
-            "location": "/Parts/System/RocketTurretBullet/#events",
-            "text": "",
-            "title": "Events"
-        },
-        {
-            "location": "/Parts/System/RocketTurretBullet/#slots",
             "text": "",
             "title": "Slots"
         },
@@ -1401,267 +1366,267 @@
             "title": "Slots"
         },
         {
-            "location": "/Parts/Weapon/LaserCannon/",
+            "location": "/Parts/Weapon/Laser Cannon/",
             "text": "Weapon > \nLaser Cannon\n#\n\n\n\n\n\n\nDescription\n#\n\n\nPowerful weapon. Uses battery as an ammo so it&#39;s potentialy unlimited number of shots. You can also regulate the energy that will be used for shot (more energy implies more damage)\n\n\n\n\nCharacteristics\n#\n\n\n\n\n\n\n\n\nName\n\n\nValue\n\n\n\n\n\n\n\n\n\n\nMinRank\n\n\n4\n\n\n\n\n\n\nPrice\n\n\n300f,700f,1000f,2000f,\n\n\n\n\n\n\nMaxNumber\n\n\n3\n\n\n\n\n\n\nWeight\n\n\n250f\n\n\n\n\n\n\nCoolingTime\n\n\n2f\n\n\n\n\n\n\n\n\nActions\n#\n\n\n\n\n[\nFire\n]\n#\n\n\nDescription\n#\n\n\nPower consumption is multiplied by 1-100\n\n\n\n\nPower consumption\n - 220f\n#\n\n\nParameters\n#\n\n\n\n\n\n\n\n\nRun in backround\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nBool\n\n\n\n\n\n\nUnit\n\n\n\n\n\n\n\n\nMax\n\n\n0\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\n0\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFire\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\npercent\n\n\n\n\n\n\nMax\n\n\n100f\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\n100f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRepeat\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\ntime(s)\n\n\n\n\n\n\nMax\n\n\n20f\n\n\n\n\n\n\nMin\n\n\n1f\n\n\n\n\n\n\nDefault\n\n\n1f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\nEvents\n#\n\n\nSlots\n#",
-            "title": "LaserCannon"
+            "title": "Laser Cannon"
         },
         {
-            "location": "/Parts/Weapon/LaserCannon/#weapon-laser-cannon",
+            "location": "/Parts/Weapon/Laser Cannon/#weapon-laser-cannon",
             "text": "",
             "title": "Weapon &gt; Laser Cannon"
         },
         {
-            "location": "/Parts/Weapon/LaserCannon/#description",
+            "location": "/Parts/Weapon/Laser Cannon/#description",
             "text": "Powerful weapon. Uses battery as an ammo so it&#39;s potentialy unlimited number of shots. You can also regulate the energy that will be used for shot (more energy implies more damage)",
             "title": "Description"
         },
         {
-            "location": "/Parts/Weapon/LaserCannon/#characteristics",
+            "location": "/Parts/Weapon/Laser Cannon/#characteristics",
             "text": "Name  Value      MinRank  4    Price  300f,700f,1000f,2000f,    MaxNumber  3    Weight  250f    CoolingTime  2f",
             "title": "Characteristics"
         },
         {
-            "location": "/Parts/Weapon/LaserCannon/#actions",
+            "location": "/Parts/Weapon/Laser Cannon/#actions",
             "text": "",
             "title": "Actions"
         },
         {
-            "location": "/Parts/Weapon/LaserCannon/#fire",
+            "location": "/Parts/Weapon/Laser Cannon/#fire",
             "text": "",
             "title": "[Fire]"
         },
         {
-            "location": "/Parts/Weapon/LaserCannon/#description_1",
+            "location": "/Parts/Weapon/Laser Cannon/#description_1",
             "text": "Power consumption is multiplied by 1-100",
             "title": "Description"
         },
         {
-            "location": "/Parts/Weapon/LaserCannon/#power-consumption-220f",
+            "location": "/Parts/Weapon/Laser Cannon/#power-consumption-220f",
             "text": "",
             "title": "Power consumption - 220f"
         },
         {
-            "location": "/Parts/Weapon/LaserCannon/#parameters",
+            "location": "/Parts/Weapon/Laser Cannon/#parameters",
             "text": "Run in backround       Type  Bool    Unit     Max  0    Min  0    Default  0    Values         Fire       Type  Slider    Unit  percent    Max  100f    Min  0    Default  100f    Values         Repeat       Type  Slider    Unit  time(s)    Max  20f    Min  1f    Default  1f    Values",
             "title": "Parameters"
         },
         {
-            "location": "/Parts/Weapon/LaserCannon/#events",
+            "location": "/Parts/Weapon/Laser Cannon/#events",
             "text": "",
             "title": "Events"
         },
         {
-            "location": "/Parts/Weapon/LaserCannon/#slots",
+            "location": "/Parts/Weapon/Laser Cannon/#slots",
             "text": "",
             "title": "Slots"
         },
         {
-            "location": "/Parts/Weapon/RocketTurret/",
+            "location": "/Parts/Weapon/Rocket Turret/",
             "text": "Weapon > \nRocket Turret\n#\n\n\n\n\n\n\nDescription\n#\n\n\nHas limited range and limited ammo. Heatseeker gives more accuracy and wider damage range.\n\n\n\n\nCharacteristics\n#\n\n\n\n\n\n\n\n\nName\n\n\nValue\n\n\n\n\n\n\n\n\n\n\nAmmo\n\n\n12\n\n\n\n\n\n\nMinRank\n\n\n4\n\n\n\n\n\n\nPrice\n\n\n1000f,2000f,3000f,4000f,\n\n\n\n\n\n\nMaxNumber\n\n\n3\n\n\n\n\n\n\nWeight\n\n\n300f\n\n\n\n\n\n\nCoolingTime\n\n\n5f\n\n\n\n\n\n\n\n\nActions\n#\n\n\n\n\n[\nFire\n]\n#\n\n\nDescription\n#\n\n\nPower consumption is multiplied by 1-100%\n\n\n\n\nPower consumption\n - 30f\n#\n\n\nParameters\n#\n\n\n\n\n\n\n\n\nRun in backround\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nBool\n\n\n\n\n\n\nUnit\n\n\n\n\n\n\n\n\nMax\n\n\n0\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\n0\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\nEvents\n#\n\n\nSlots\n#",
-            "title": "RocketTurret"
+            "title": "Rocket Turret"
         },
         {
-            "location": "/Parts/Weapon/RocketTurret/#weapon-rocket-turret",
+            "location": "/Parts/Weapon/Rocket Turret/#weapon-rocket-turret",
             "text": "",
             "title": "Weapon &gt; Rocket Turret"
         },
         {
-            "location": "/Parts/Weapon/RocketTurret/#description",
+            "location": "/Parts/Weapon/Rocket Turret/#description",
             "text": "Has limited range and limited ammo. Heatseeker gives more accuracy and wider damage range.",
             "title": "Description"
         },
         {
-            "location": "/Parts/Weapon/RocketTurret/#characteristics",
+            "location": "/Parts/Weapon/Rocket Turret/#characteristics",
             "text": "Name  Value      Ammo  12    MinRank  4    Price  1000f,2000f,3000f,4000f,    MaxNumber  3    Weight  300f    CoolingTime  5f",
             "title": "Characteristics"
         },
         {
-            "location": "/Parts/Weapon/RocketTurret/#actions",
+            "location": "/Parts/Weapon/Rocket Turret/#actions",
             "text": "",
             "title": "Actions"
         },
         {
-            "location": "/Parts/Weapon/RocketTurret/#fire",
+            "location": "/Parts/Weapon/Rocket Turret/#fire",
             "text": "",
             "title": "[Fire]"
         },
         {
-            "location": "/Parts/Weapon/RocketTurret/#description_1",
+            "location": "/Parts/Weapon/Rocket Turret/#description_1",
             "text": "Power consumption is multiplied by 1-100%",
             "title": "Description"
         },
         {
-            "location": "/Parts/Weapon/RocketTurret/#power-consumption-30f",
+            "location": "/Parts/Weapon/Rocket Turret/#power-consumption-30f",
             "text": "",
             "title": "Power consumption - 30f"
         },
         {
-            "location": "/Parts/Weapon/RocketTurret/#parameters",
+            "location": "/Parts/Weapon/Rocket Turret/#parameters",
             "text": "Run in backround       Type  Bool    Unit     Max  0    Min  0    Default  0    Values",
             "title": "Parameters"
         },
         {
-            "location": "/Parts/Weapon/RocketTurret/#events",
+            "location": "/Parts/Weapon/Rocket Turret/#events",
             "text": "",
             "title": "Events"
         },
         {
-            "location": "/Parts/Weapon/RocketTurret/#slots",
+            "location": "/Parts/Weapon/Rocket Turret/#slots",
             "text": "",
             "title": "Slots"
         },
         {
-            "location": "/Parts/Weapon/RotatingTower/",
+            "location": "/Parts/Weapon/Rotating weapon adapter/",
             "text": "Weapon > \nRotating weapon adapter\n#\n\n\n\n\n\n\nDescription\n#\n\n\nThis part can be installed in weapon slot, and also contains own weapon slot so you can rotate indepenently every weapon.\n\n\n\n\nCharacteristics\n#\n\n\n\n\n\n\n\n\nName\n\n\nValue\n\n\n\n\n\n\n\n\n\n\nMinRank\n\n\n2\n\n\n\n\n\n\nPrice\n\n\n200f,2000f,3000f,4000f,\n\n\n\n\n\n\nMaxNumber\n\n\n1\n\n\n\n\n\n\nWeight\n\n\n100f\n\n\n\n\n\n\n\n\nActions\n#\n\n\n\n\n[\nRotate\n]\n#\n\n\nDescription\n#\n\n\nPower consumption\n - 2f\n#\n\n\nParameters\n#\n\n\n\n\n\n\n\n\nRun in backround\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nBool\n\n\n\n\n\n\nUnit\n\n\n\n\n\n\n\n\nMax\n\n\n0\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\n0\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAngle\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\ndegrees\n\n\n\n\n\n\nMax\n\n\n360f\n\n\n\n\n\n\nMin\n\n\n-360f\n\n\n\n\n\n\nDefault\n\n\n90f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRotation speed\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\npercent\n\n\n\n\n\n\nMax\n\n\n100f\n\n\n\n\n\n\nMin\n\n\n1\n\n\n\n\n\n\nDefault\n\n\n100f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n[\nRotate To Point\n]\n#\n\n\nDescription\n#\n\n\nPower consumption\n - 2f\n#\n\n\nParameters\n#\n\n\n\n\n\n\n\n\nRun in backround\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nBool\n\n\n\n\n\n\nUnit\n\n\n\n\n\n\n\n\nMax\n\n\n0\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\n0\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPoint\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nPoint\n\n\n\n\n\n\nUnit\n\n\n\n\n\n\n\n\nMax\n\n\n0\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\n0\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRotation speed\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\npercent\n\n\n\n\n\n\nMax\n\n\n100f\n\n\n\n\n\n\nMin\n\n\n1\n\n\n\n\n\n\nDefault\n\n\n100f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n[\nReset rotation\n]\n#\n\n\nDescription\n#\n\n\nPower consumption\n - 2f\n#\n\n\nParameters\n#\n\n\n\n\n\n\n\n\nRun in backround\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nBool\n\n\n\n\n\n\nUnit\n\n\n\n\n\n\n\n\nMax\n\n\n0\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\n0\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\nEvents\n#\n\n\nSlots\n#\n\n\n[Weapon]\n#\n\n\nra_w1 - Rotator",
-            "title": "RotatingTower"
+            "title": "Rotating weapon adapter"
         },
         {
-            "location": "/Parts/Weapon/RotatingTower/#weapon-rotating-weapon-adapter",
+            "location": "/Parts/Weapon/Rotating weapon adapter/#weapon-rotating-weapon-adapter",
             "text": "",
             "title": "Weapon &gt; Rotating weapon adapter"
         },
         {
-            "location": "/Parts/Weapon/RotatingTower/#description",
+            "location": "/Parts/Weapon/Rotating weapon adapter/#description",
             "text": "This part can be installed in weapon slot, and also contains own weapon slot so you can rotate indepenently every weapon.",
             "title": "Description"
         },
         {
-            "location": "/Parts/Weapon/RotatingTower/#characteristics",
+            "location": "/Parts/Weapon/Rotating weapon adapter/#characteristics",
             "text": "Name  Value      MinRank  2    Price  200f,2000f,3000f,4000f,    MaxNumber  1    Weight  100f",
             "title": "Characteristics"
         },
         {
-            "location": "/Parts/Weapon/RotatingTower/#actions",
+            "location": "/Parts/Weapon/Rotating weapon adapter/#actions",
             "text": "",
             "title": "Actions"
         },
         {
-            "location": "/Parts/Weapon/RotatingTower/#rotate",
+            "location": "/Parts/Weapon/Rotating weapon adapter/#rotate",
             "text": "",
             "title": "[Rotate]"
         },
         {
-            "location": "/Parts/Weapon/RotatingTower/#description_1",
+            "location": "/Parts/Weapon/Rotating weapon adapter/#description_1",
             "text": "",
             "title": "Description"
         },
         {
-            "location": "/Parts/Weapon/RotatingTower/#power-consumption-2f",
+            "location": "/Parts/Weapon/Rotating weapon adapter/#power-consumption-2f",
             "text": "",
             "title": "Power consumption - 2f"
         },
         {
-            "location": "/Parts/Weapon/RotatingTower/#parameters",
+            "location": "/Parts/Weapon/Rotating weapon adapter/#parameters",
             "text": "Run in backround       Type  Bool    Unit     Max  0    Min  0    Default  0    Values         Angle       Type  Slider    Unit  degrees    Max  360f    Min  -360f    Default  90f    Values         Rotation speed       Type  Slider    Unit  percent    Max  100f    Min  1    Default  100f    Values",
             "title": "Parameters"
         },
         {
-            "location": "/Parts/Weapon/RotatingTower/#rotate-to-point",
+            "location": "/Parts/Weapon/Rotating weapon adapter/#rotate-to-point",
             "text": "",
             "title": "[Rotate To Point]"
         },
         {
-            "location": "/Parts/Weapon/RotatingTower/#description_2",
+            "location": "/Parts/Weapon/Rotating weapon adapter/#description_2",
             "text": "",
             "title": "Description"
         },
         {
-            "location": "/Parts/Weapon/RotatingTower/#power-consumption-2f_1",
+            "location": "/Parts/Weapon/Rotating weapon adapter/#power-consumption-2f_1",
             "text": "",
             "title": "Power consumption - 2f"
         },
         {
-            "location": "/Parts/Weapon/RotatingTower/#parameters_1",
+            "location": "/Parts/Weapon/Rotating weapon adapter/#parameters_1",
             "text": "Run in backround       Type  Bool    Unit     Max  0    Min  0    Default  0    Values         Point       Type  Point    Unit     Max  0    Min  0    Default  0    Values         Rotation speed       Type  Slider    Unit  percent    Max  100f    Min  1    Default  100f    Values",
             "title": "Parameters"
         },
         {
-            "location": "/Parts/Weapon/RotatingTower/#reset-rotation",
+            "location": "/Parts/Weapon/Rotating weapon adapter/#reset-rotation",
             "text": "",
             "title": "[Reset rotation]"
         },
         {
-            "location": "/Parts/Weapon/RotatingTower/#description_3",
+            "location": "/Parts/Weapon/Rotating weapon adapter/#description_3",
             "text": "",
             "title": "Description"
         },
         {
-            "location": "/Parts/Weapon/RotatingTower/#power-consumption-2f_2",
+            "location": "/Parts/Weapon/Rotating weapon adapter/#power-consumption-2f_2",
             "text": "",
             "title": "Power consumption - 2f"
         },
         {
-            "location": "/Parts/Weapon/RotatingTower/#parameters_2",
+            "location": "/Parts/Weapon/Rotating weapon adapter/#parameters_2",
             "text": "Run in backround       Type  Bool    Unit     Max  0    Min  0    Default  0    Values",
             "title": "Parameters"
         },
         {
-            "location": "/Parts/Weapon/RotatingTower/#events",
+            "location": "/Parts/Weapon/Rotating weapon adapter/#events",
             "text": "",
             "title": "Events"
         },
         {
-            "location": "/Parts/Weapon/RotatingTower/#slots",
+            "location": "/Parts/Weapon/Rotating weapon adapter/#slots",
             "text": "",
             "title": "Slots"
         },
         {
-            "location": "/Parts/Weapon/RotatingTower/#weapon",
+            "location": "/Parts/Weapon/Rotating weapon adapter/#weapon",
             "text": "ra_w1 - Rotator",
             "title": "[Weapon]"
         },
         {
-            "location": "/Parts/Weapon/SmallLaserCannon/",
+            "location": "/Parts/Weapon/Small Laser Cannon/",
             "text": "Weapon > \nSmall Laser Cannon\n#\n\n\n\n\n\n\nDescription\n#\n\n\nUses battery as an ammo so it&#39;s potentialy unlimited number of shots. You can also regulate the energy that will be used for shot (more energy implies more damage)\n\n\n\n\nCharacteristics\n#\n\n\n\n\n\n\n\n\nName\n\n\nValue\n\n\n\n\n\n\n\n\n\n\nMinRank\n\n\n1\n\n\n\n\n\n\nPrice\n\n\n140f,500f,1000f,1500f,\n\n\n\n\n\n\nMaxNumber\n\n\n3\n\n\n\n\n\n\nWeight\n\n\n150f\n\n\n\n\n\n\nCoolingTime\n\n\n1.5f\n\n\n\n\n\n\n\n\nActions\n#\n\n\n\n\n[\nFire\n]\n#\n\n\nDescription\n#\n\n\nnote: power consumption is multiplied by 1-100\n\n\n\n\nPower consumption\n - 130f\n#\n\n\nParameters\n#\n\n\n\n\n\n\n\n\nRun in backround\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nBool\n\n\n\n\n\n\nUnit\n\n\n\n\n\n\n\n\nMax\n\n\n0\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\n0\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFire\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\npercent\n\n\n\n\n\n\nMax\n\n\n100f\n\n\n\n\n\n\nMin\n\n\n0\n\n\n\n\n\n\nDefault\n\n\n100f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRepeat\n\n\n\n\n\n\n\n\n\n\n\n\nType\n\n\nSlider\n\n\n\n\n\n\nUnit\n\n\ntime(s)\n\n\n\n\n\n\nMax\n\n\n20f\n\n\n\n\n\n\nMin\n\n\n1f\n\n\n\n\n\n\nDefault\n\n\n1f\n\n\n\n\n\n\nValues\n\n\n\n\n\n\n\n\n\n\nEvents\n#\n\n\nSlots\n#",
-            "title": "SmallLaserCannon"
+            "title": "Small Laser Cannon"
         },
         {
-            "location": "/Parts/Weapon/SmallLaserCannon/#weapon-small-laser-cannon",
+            "location": "/Parts/Weapon/Small Laser Cannon/#weapon-small-laser-cannon",
             "text": "",
             "title": "Weapon &gt; Small Laser Cannon"
         },
         {
-            "location": "/Parts/Weapon/SmallLaserCannon/#description",
+            "location": "/Parts/Weapon/Small Laser Cannon/#description",
             "text": "Uses battery as an ammo so it&#39;s potentialy unlimited number of shots. You can also regulate the energy that will be used for shot (more energy implies more damage)",
             "title": "Description"
         },
         {
-            "location": "/Parts/Weapon/SmallLaserCannon/#characteristics",
+            "location": "/Parts/Weapon/Small Laser Cannon/#characteristics",
             "text": "Name  Value      MinRank  1    Price  140f,500f,1000f,1500f,    MaxNumber  3    Weight  150f    CoolingTime  1.5f",
             "title": "Characteristics"
         },
         {
-            "location": "/Parts/Weapon/SmallLaserCannon/#actions",
+            "location": "/Parts/Weapon/Small Laser Cannon/#actions",
             "text": "",
             "title": "Actions"
         },
         {
-            "location": "/Parts/Weapon/SmallLaserCannon/#fire",
+            "location": "/Parts/Weapon/Small Laser Cannon/#fire",
             "text": "",
             "title": "[Fire]"
         },
         {
-            "location": "/Parts/Weapon/SmallLaserCannon/#description_1",
+            "location": "/Parts/Weapon/Small Laser Cannon/#description_1",
             "text": "note: power consumption is multiplied by 1-100",
             "title": "Description"
         },
         {
-            "location": "/Parts/Weapon/SmallLaserCannon/#power-consumption-130f",
+            "location": "/Parts/Weapon/Small Laser Cannon/#power-consumption-130f",
             "text": "",
             "title": "Power consumption - 130f"
         },
         {
-            "location": "/Parts/Weapon/SmallLaserCannon/#parameters",
+            "location": "/Parts/Weapon/Small Laser Cannon/#parameters",
             "text": "Run in backround       Type  Bool    Unit     Max  0    Min  0    Default  0    Values         Fire       Type  Slider    Unit  percent    Max  100f    Min  0    Default  100f    Values         Repeat       Type  Slider    Unit  time(s)    Max  20f    Min  1f    Default  1f    Values",
             "title": "Parameters"
         },
         {
-            "location": "/Parts/Weapon/SmallLaserCannon/#events",
+            "location": "/Parts/Weapon/Small Laser Cannon/#events",
             "text": "",
             "title": "Events"
         },
         {
-            "location": "/Parts/Weapon/SmallLaserCannon/#slots",
+            "location": "/Parts/Weapon/Small Laser Cannon/#slots",
             "text": "",
             "title": "Slots"
         }
