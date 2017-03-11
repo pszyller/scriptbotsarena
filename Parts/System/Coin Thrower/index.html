@@ -1,328 +1,679 @@
+
 <!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        
+<html class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Scriptbot Arena">
+      
+      
+      
         <meta name="author" content="Pawel Szyller">
+      
+      
+        <link rel="shortcut icon" href="../../../assets/images/favicon.png">
+      
+      <meta name="generator" content="mkdocs-0.16.1, mkdocs-material-1.2.0">
+    
+    
+      
+        <title>Coin Thrower - Scriptbots Arena</title>
+      
+    
+    
+      <script src="../../../assets/javascripts/modernizr-56ade86843.js"></script>
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/application-e17eeafcbc.css">
+      
+    
+    
+      
         
-        <link rel="shortcut icon" href="../../../img/favicon.ico">
-
-	<title>Coin Thrower - Scriptbots Arena</title>
-
-        <link href="../../../css/bootstrap-custom.min.css" rel="stylesheet">
-        <link href="../../../css/font-awesome-4.0.3.css" rel="stylesheet">
-        <link rel="stylesheet" href="../../../css/highlight.css">
-        <link href="../../../css/base.css" rel="stylesheet">
-
-        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-        <!--[if lt IE 9]>
-            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-            <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-        <![endif]-->
-
         
-    </head>
-
+        
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono">
+        <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    
+    
+    
+  </head>
+  
+  
+  
+  
     <body>
-
-        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-    <div class="container">
-
-        <!-- Collapsed navigation -->
-        <div class="navbar-header">
-            <!-- Expander button -->
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-
-            <!-- Main title -->
-            <a class="navbar-brand" href="../../..">Scriptbots Arena</a>
-        </div>
-
-        <!-- Expanded navigation -->
-        <div class="navbar-collapse collapse">
-            <!-- Main navigation -->
-            <ul class="nav navbar-nav">
-            
-            
-                <li >
-                    <a href="../../..">Home</a>
-                </li>
-            
-            
-            
-                <li class="dropdown active">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Parts <b class="caret"></b></a>
-                    <ul class="dropdown-menu">
-                    
-                        
-  <li class="dropdown-submenu">
-    <a tabindex="-1" href="">Battery</a>
-    <ul class="dropdown-menu">
+  
+    <svg class="md-svg">
+      <defs>
         
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="drawer">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="search">
+    <label class="md-overlay" data-md-component="overlay" for="drawer"></label>
+    
+      <header class="md-header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          <a href="../../.." title="Scriptbots Arena" class="md-logo md-header-nav__button">
+            <img src="../../../scriptbots.png" width="24" height="24">
+          </a>
+        
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <span class="md-flex__ellipsis md-header-nav__title">
+          
             
-<li >
-    <a href="../../Battery/Battery%20B-201%20V/">Battery B 201 V</a>
-</li>
-
-        
+              
+                <span class="md-header-nav__parent">
+                  Parts
+                </span>
+              
+                <span class="md-header-nav__parent">
+                  System
+                </span>
+              
             
-<li >
-    <a href="../../Battery/Battery%20Charger/">Battery Charger</a>
-</li>
-
+            Coin Thrower
+          
+        </span>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
         
-    </ul>
-  </li>
-
-                    
-                        
-  <li class="dropdown-submenu">
-    <a tabindex="-1" href="">Electronics</a>
-    <ul class="dropdown-menu">
-        
-            
-<li >
-    <a href="../../Electronics/Memory%20Card%2010/">Memory Card 10</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../Electronics/Radio/">Radio</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../Electronics/Random%20Number%20Generator/">Random Number Generator</a>
-</li>
-
-        
-    </ul>
-  </li>
-
-                    
-                        
-  <li class="dropdown-submenu">
-    <a tabindex="-1" href="">Frames</a>
-    <ul class="dropdown-menu">
-        
-            
-<li >
-    <a href="../../Frames/Black%20Jack%20Frame/">Black Jack Frame</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../Frames/Hornet%20Frame/">Hornet Frame</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../Frames/Scout%20Frame/">Scout Frame</a>
-</li>
-
-        
-    </ul>
-  </li>
-
-                    
-                        
-  <li class="dropdown-submenu">
-    <a tabindex="-1" href="">Sensors</a>
-    <ul class="dropdown-menu">
-        
-            
-<li >
-    <a href="../../Sensors/%28Under%20development%29%20Damage%20Detector/">(Under development) Damage Detector</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../Sensors/Mine%20detector%20MD-50/">Mine detector MD 50</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../Sensors/Radar%20-%20SR20/">Radar   SR20</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../Sensors/Short%20Range%20Distance%20Sensor/">Short Range Distance Sensor</a>
-</li>
-
-        
-    </ul>
-  </li>
-
-                    
-                        
-  <li class="dropdown-submenu">
-    <a tabindex="-1" href="">Shield</a>
-    <ul class="dropdown-menu">
-        
-            
-<li >
-    <a href="../../Shield/Force%20Field%20Generator/">Force Field Generator</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../Shield/Stealth%20Field%20Generator/">Stealth Field Generator</a>
-</li>
-
-        
-    </ul>
-  </li>
-
-                    
-                        
-  <li class="dropdown-submenu">
-    <a tabindex="-1" href="">System</a>
-    <ul class="dropdown-menu">
-        
-            
-<li class="active">
-    <a href="./">Coin Thrower</a>
-</li>
-
-        
-            
-<li >
-    <a href="../ForceFieldRange/">ForceFieldRange</a>
-</li>
-
-        
-            
-<li >
-    <a href="../LaserCannonBullet/">LaserCannonBullet</a>
-</li>
-
-        
-            
-<li >
-    <a href="../MineDetectorRegion/">MineDetectorRegion</a>
-</li>
-
-        
-            
-<li >
-    <a href="../SlotMarker/">SlotMarker</a>
-</li>
-
-        
-            
-<li >
-    <a href="../StealthFieldRange/">StealthFieldRange</a>
-</li>
-
-        
-    </ul>
-  </li>
-
-                    
-                        
-  <li class="dropdown-submenu">
-    <a tabindex="-1" href="">Weapon</a>
-    <ul class="dropdown-menu">
-        
-            
-<li >
-    <a href="../../Weapon/Laser%20Cannon/">Laser Cannon</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../Weapon/Rocket%20Turret/">Rocket Turret</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../Weapon/Rotating%20weapon%20adapter/">Rotating weapon adapter</a>
-</li>
-
-        
-            
-<li >
-    <a href="../../Weapon/Small%20Laser%20Cannon/">Small Laser Cannon</a>
-</li>
-
-        
-    </ul>
-  </li>
-
-                    
-                    </ul>
-                </li>
-            
-            
-            </ul>
-
-            <!-- Search, Navigation and Repo links -->
-            <ul class="nav navbar-nav navbar-right">
-                <li>
-                    <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
-                        <i class="fa fa-search"></i> Search
-                    </a>
-                </li>
-                <li >
-                    <a rel="next" href="../../Shield/Stealth%20Field%20Generator/">
-                        <i class="fa fa-arrow-left"></i> Previous
-                    </a>
-                </li>
-                <li >
-                    <a rel="prev" href="../ForceFieldRange/">
-                        Next <i class="fa fa-arrow-right"></i>
-                    </a>
-                </li>
-                
-            </ul>
-        </div>
+          <label class="md-icon md-icon--search md-header-nav__button" for="search"></label>
+          
+<div class="md-search" data-md-component="search">
+  <div class="md-search__overlay"></div>
+  <div class="md-search__inner">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="Search" accesskey="s" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query">
+      <label class="md-icon md-search__icon" for="search"></label>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result"></div>
+      </div>
     </div>
+  </div>
 </div>
+        
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <div class="md-header-nav__source">
+          
+        </div>
+      </div>
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="drawer">
+    
+      <i class="md-logo md-nav__button">
+        <img src="../../../scriptbots.png">
+      </i>
+    
+    Scriptbots Arena
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
 
-        <div class="container">
-            <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
-    <ul class="nav bs-sidenav">
-    
-        <li class="main active"><a href="#system-coin-thrower">System &gt; Coin Thrower</a></li>
-        
-    
-        <li class="main "><a href="#description">Description</a></li>
-        
-    
-        <li class="main "><a href="#characteristics">Characteristics</a></li>
-        
-    
-        <li class="main "><a href="#actions">Actions</a></li>
-        
-    
-        <li class="main "><a href="#events">Events</a></li>
-        
-    
-        <li class="main "><a href="#slots">Slots</a></li>
-        
-    
-    </ul>
-</div></div>
-            <div class="col-md-9" role="main">
 
-<h1 id="system-coin-thrower">System &gt; <strong>Coin Thrower</strong><a class="headerlink" href="#system-coin-thrower" title="Permanent link">#</a></h1>
+  <li class="md-nav__item">
+    <a href="../../.." title="Home" class="md-nav__link">
+      Home
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2" checked>
+    
+    <label class="md-nav__link" for="nav-2">
+      Parts
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-2">
+        Parts
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-1" type="checkbox" id="nav-2-1">
+    
+    <label class="md-nav__link" for="nav-2-1">
+      Battery
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-1">
+        Battery
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Battery/Battery%20B-201%20V/" title="Battery B 201 V" class="md-nav__link">
+      Battery B 201 V
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Battery/Battery%20Charger/" title="Battery Charger" class="md-nav__link">
+      Battery Charger
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-2" type="checkbox" id="nav-2-2">
+    
+    <label class="md-nav__link" for="nav-2-2">
+      Electronics
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-2">
+        Electronics
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Electronics/Memory%20Card%2010/" title="Memory Card 10" class="md-nav__link">
+      Memory Card 10
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Electronics/Radio/" title="Radio" class="md-nav__link">
+      Radio
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Electronics/Random%20Number%20Generator/" title="Random Number Generator" class="md-nav__link">
+      Random Number Generator
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-3" type="checkbox" id="nav-2-3">
+    
+    <label class="md-nav__link" for="nav-2-3">
+      Frames
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-3">
+        Frames
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Frames/Black%20Jack%20Frame/" title="Black Jack Frame" class="md-nav__link">
+      Black Jack Frame
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Frames/Hornet%20Frame/" title="Hornet Frame" class="md-nav__link">
+      Hornet Frame
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Frames/Scout%20Frame/" title="Scout Frame" class="md-nav__link">
+      Scout Frame
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-4" type="checkbox" id="nav-2-4">
+    
+    <label class="md-nav__link" for="nav-2-4">
+      Sensors
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-4">
+        Sensors
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Sensors/%28Under%20development%29%20Damage%20Detector/" title="(Under development) Damage Detector" class="md-nav__link">
+      (Under development) Damage Detector
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Sensors/Mine%20detector%20MD-50/" title="Mine detector MD 50" class="md-nav__link">
+      Mine detector MD 50
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Sensors/Radar%20-%20SR20/" title="Radar   SR20" class="md-nav__link">
+      Radar   SR20
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Sensors/Short%20Range%20Distance%20Sensor/" title="Short Range Distance Sensor" class="md-nav__link">
+      Short Range Distance Sensor
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-5" type="checkbox" id="nav-2-5">
+    
+    <label class="md-nav__link" for="nav-2-5">
+      Shield
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-5">
+        Shield
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Shield/Force%20Field%20Generator/" title="Force Field Generator" class="md-nav__link">
+      Force Field Generator
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Shield/Stealth%20Field%20Generator/" title="Stealth Field Generator" class="md-nav__link">
+      Stealth Field Generator
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-6" type="checkbox" id="nav-2-6" checked>
+    
+    <label class="md-nav__link" for="nav-2-6">
+      System
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-6">
+        System
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="toc">
+    
+      
+    
+    
+    <a href="./" title="Coin Thrower" class="md-nav__link md-nav__link--active">
+      Coin Thrower
+    </a>
+    
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ForceFieldRange/" title="ForceFieldRange" class="md-nav__link">
+      ForceFieldRange
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../LaserCannonBullet/" title="LaserCannonBullet" class="md-nav__link">
+      LaserCannonBullet
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../MineDetectorRegion/" title="MineDetectorRegion" class="md-nav__link">
+      MineDetectorRegion
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../SlotMarker/" title="SlotMarker" class="md-nav__link">
+      SlotMarker
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../StealthFieldRange/" title="StealthFieldRange" class="md-nav__link">
+      StealthFieldRange
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-7" type="checkbox" id="nav-2-7">
+    
+    <label class="md-nav__link" for="nav-2-7">
+      Weapon
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-7">
+        Weapon
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Weapon/Laser%20Cannon/" title="Laser Cannon" class="md-nav__link">
+      Laser Cannon
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Weapon/Rocket%20Turret/" title="Rocket Turret" class="md-nav__link">
+      Rocket Turret
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Weapon/Rotating%20weapon%20adapter/" title="Rotating weapon adapter" class="md-nav__link">
+      Rotating weapon adapter
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../Weapon/Small%20Laser%20Cannon/" title="Small Laser Cannon" class="md-nav__link">
+      Small Laser Cannon
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+               
+              
+                
+                <h1 id="system-coin-thrower">System &gt; <strong>Coin Thrower</strong><a class="headerlink" href="#system-coin-thrower" title="Permanent link">#</a></h1>
 <hr />
 <p><img alt="" src="../../../../../scriptbotsarena/img/CoinThrower.png" /></p>
 <h1 id="description">Description<a class="headerlink" href="#description" title="Permanent link">#</a></h1>
@@ -341,47 +692,81 @@
 </table>
 <h1 id="actions">Actions<a class="headerlink" href="#actions" title="Permanent link">#</a></h1>
 <h1 id="events">Events<a class="headerlink" href="#events" title="Permanent link">#</a></h1>
-<h1 id="slots">Slots<a class="headerlink" href="#slots" title="Permanent link">#</a></h1></div>
+<h1 id="slots">Slots<a class="headerlink" href="#slots" title="Permanent link">#</a></h1>
+              
+              
+            </article>
+          </div>
         </div>
-
-        <footer class="col-md-12">
-            <hr>
-            
-                <center>AutonomyDev Pawel Szyller</center>
-            
-            <center>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</center>
-        </footer>
-
-        <script src="../../../js/jquery-1.10.2.min.js"></script>
-        <script src="../../../js/bootstrap-3.0.3.min.js"></script>
-        <script src="../../../js/highlight.pack.js"></script>
-        <script>var base_url = '../../..';</script>
-        <script data-main="../../../mkdocs/js/search.js" src="../../../mkdocs/js/require.js"></script>
-        <script src="../../../js/base.js"></script>
-
-        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-                        <h4 class="modal-title" id="exampleModalLabel">Search</h4>
-                    </div>
-                    <div class="modal-body">
-                        <p>
-                            From here you can search these documents. Enter
-                            your search terms below.
-                        </p>
-                        <form role="form">
-                            <div class="form-group">
-                                <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
-                            </div>
-                        </form>
-                        <div id="mkdocs-search-results"></div>
-                    </div>
-                    <div class="modal-footer">
-                    </div>
-                </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href="../../Shield/Stealth%20Field%20Generator/" title="Stealth Field Generator" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
             </div>
-        </div>
-    </body>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                Stealth Field Generator
+              </span>
+            </div>
+          </a>
+        
+        
+          <a href="../ForceFieldRange/" title="ForceFieldRange" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Next
+                </span>
+                ForceFieldRange
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+          <div class="md-footer-copyright__highlight">
+            AutonomyDev Pawel Szyller
+          </div>
+        
+        powered by
+        <a href="http://www.mkdocs.org" title="MkDocs">MkDocs</a>
+        and
+        <a href="http://squidfunk.github.io/mkdocs-material/" title="Material for MkDocs">
+          Material for MkDocs</a>
+      </div>
+      
+        
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../../../assets/javascripts/application-30ac6a1727.js"></script>
+      <script>app.initialize({url:{base:"../../.."}})</script>
+      
+    
+    
+      
+    
+  </body>
 </html>
